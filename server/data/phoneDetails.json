@@ -1,0 +1,2409 @@
+{
+  "Tecno": [
+    {
+      "id": "tecno_pova_7_pro-13990",
+      "brand": "Tecno",
+      "model": "Pova 7 Pro",
+      "description": "Tecno Pova 7 Pro 5G Android smartphone. Announced Jul 2025. Features 6.78″  display, Dimensity 7300 Ultimate chipset, 6000 mAh battery, 256 GB storage, 12 GB RAM.",
+      "price": 450,
+      "storage": [
+        "128 GB",
+        "256 GB",
+        "512 GB"
+      ],
+      "colors": [
+        "Black",
+        "Silver",
+        "Blue"
+      ],
+      "batterySize": "6000 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "8 GB",
+        "12 GB"
+      ],
+      "displaySize": "6.78″",
+      "releaseDate": "2025-07-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pova7-pro.jpg",
+      "frontCamera": "16 MP",
+      "backCamera": "50 MP + 8 MP",
+      "os": "Android 15",
+      "stock": 120
+    },
+    {
+      "id": "tecno_pova_7-13991",
+      "brand": "Tecno",
+      "model": "Pova 7",
+      "description": "Tecno Pova 7 5G Android smartphone. Announced Jul 2025. Features 6.78″  display, Dimensity 7300 Ultimate chipset, 6000 mAh battery, 256 GB storage, 8 GB RAM.",
+      "price": 400,
+      "storage": [
+        "128 GB",
+        "256 GB"
+      ],
+      "colors": [
+        "Black",
+        "Green",
+        "Gold"
+      ],
+      "batterySize": "6000 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "6 GB",
+        "8 GB"
+      ],
+      "displaySize": "6.78″",
+      "releaseDate": "2025-07-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pova7-5g.jpg",
+      "frontCamera": "12 MP",
+      "backCamera": "48 MP + 5 MP",
+      "os": "Android 15",
+      "stock": 150
+    },
+    {
+      "id": "tecno_spark_40_pro+-13986",
+      "brand": "Tecno",
+      "model": "Spark 40 Pro+",
+      "description": "Tecno Spark 40 Pro+ Android smartphone. Announced Jul 2025. Features 6.78″  display, Helio G200 chipset, 5200 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 7i.",
+      "price": 300,
+      "storage": [
+        "128 GB",
+        "256 GB"
+      ],
+      "colors": [
+        "Silver",
+        "Blue",
+        "Red"
+      ],
+      "batterySize": "5200 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "6 GB",
+        "8 GB"
+      ],
+      "displaySize": "6.78″",
+      "releaseDate": "2025-07-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/techno-spark-40-pro-plus.jpg",
+      "frontCamera": "8 MP",
+      "backCamera": "32 MP + 5 MP",
+      "os": "Android 15",
+      "stock": 100
+    },
+    {
+      "id": "tecno_spark_40_pro-13985",
+      "brand": "Tecno",
+      "model": "Spark 40 Pro",
+      "description": "Tecno Spark 40 Pro Android smartphone. Announced Jul 2025. Features 6.78″  display, Helio G100 Ultimate chipset, 5200 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 7i.",
+      "price": 280,
+      "storage": [
+        "128 GB",
+        "256 GB"
+      ],
+      "colors": [
+        "Black",
+        "White",
+        "Blue"
+      ],
+      "batterySize": "5200 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "6 GB",
+        "8 GB"
+      ],
+      "displaySize": "6.78″",
+      "releaseDate": "2025-07-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/techno-spark-40-pro.jpg",
+      "frontCamera": "8 MP",
+      "backCamera": "32 MP + 2 MP",
+      "os": "Android 15",
+      "stock": 130
+    },
+    {
+      "id": "tecno_spark_40-13984",
+      "brand": "Tecno",
+      "model": "Spark 40",
+      "description": "Tecno Spark 40 4G Android smartphone. Announced Jul 2025. Features 6.67″  display, Helio G81 chipset, 5200 mAh battery, 256 GB storage, 8 GB RAM.",
+      "price": 250,
+      "storage": [
+        "128 GB",
+        "256 GB"
+      ],
+      "colors": [
+        "Green",
+        "Silver",
+        "Black"
+      ],
+      "batterySize": "5200 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "6 GB",
+        "8 GB"
+      ],
+      "displaySize": "6.67″",
+      "releaseDate": "2025-07-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/techno-spark-40-4g.jpg",
+      "frontCamera": "8 MP",
+      "backCamera": "16 MP + 2 MP",
+      "os": "Android 15",
+      "stock": 110
+    },
+    {
+      "id": "tecno_pova_7_ultra-13976",
+      "brand": "Tecno",
+      "model": "Pova 7 Ultra",
+      "description": "Tecno Pova 7 Ultra 5G Android smartphone. Announced Jun 2025. Features 6.67″  display, Dimensity 8350 Ultimate chipset, 6000 mAh battery, 256 GB storage, 12 GB RAM.",
+      "price": 500,
+      "storage": [
+        "128 GB",
+        "256 GB",
+        "512 GB"
+      ],
+      "colors": [
+        "Blue",
+        "Black",
+        "Gold"
+      ],
+      "batterySize": "6000 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "8 GB",
+        "12 GB"
+      ],
+      "displaySize": "6.67″",
+      "releaseDate": "2025-06-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pova7-ultra.jpg",
+      "frontCamera": "16 MP",
+      "backCamera": "64 MP + 8 MP",
+      "os": "Android 15",
+      "stock": 90
+    },
+    {
+      "id": "tecno_pova_7_4g-13974",
+      "brand": "Tecno",
+      "model": "Pova 7 4G",
+      "description": "Tecno Pova 7 Android smartphone. Announced Jun 2025. Features 6.78″  display, Helio G100 Ultimate chipset, 7000 mAh battery, 256 GB storage, 8 GB RAM.",
+      "price": 350,
+      "storage": [
+        "128 GB",
+        "256 GB"
+      ],
+      "colors": [
+        "Red",
+        "Silver",
+        "Green"
+      ],
+      "batterySize": "7000 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "6 GB",
+        "8 GB"
+      ],
+      "displaySize": "6.78″",
+      "releaseDate": "2025-06-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pova7.jpg",
+      "frontCamera": "12 MP",
+      "backCamera": "48 MP + 5 MP",
+      "os": "Android 15",
+      "stock": 140
+    },
+    {
+      "id": "tecno_spark_go_2-13975",
+      "brand": "Tecno",
+      "model": "Spark Go 2",
+      "description": "Tecno Spark Go 2 Android smartphone. Announced Jun 2025. Features 6.67″  display, Unisoc T7250 chipset, 5000 mAh battery, 256 GB storage, 4 GB RAM.",
+      "price": 150,
+      "storage": [
+        "64 GB",
+        "256 GB"
+      ],
+      "colors": [
+        "Black",
+        "Blue",
+        "White"
+      ],
+      "batterySize": "5000 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "4 GB",
+        "6 GB"
+      ],
+      "displaySize": "6.67″",
+      "releaseDate": "2025-06-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-go2.jpg",
+      "frontCamera": "5 MP",
+      "backCamera": "13 MP + 2 MP",
+      "os": "Android 15",
+      "stock": 160
+    },
+    {
+      "id": "tecno_pova_curve-13915",
+      "brand": "Tecno",
+      "model": "Pova Curve",
+      "description": "Tecno Pova Curve 5G Android smartphone. Announced May 2025. Features 6.78″  display, Dimensity 7300 Ultimate chipset, 5500 mAh battery, 128 GB storage, 8 GB RAM, Corning Gorilla Glass 5.",
+      "price": 400,
+      "storage": [
+        "128 GB",
+        "256 GB"
+      ],
+      "colors": [
+        "Silver",
+        "Black",
+        "Green"
+      ],
+      "batterySize": "5500 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "6 GB",
+        "8 GB"
+      ],
+      "displaySize": "6.78″",
+      "releaseDate": "2025-05-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pova-curve-5g.jpg",
+      "frontCamera": "12 MP",
+      "backCamera": "50 MP + 5 MP",
+      "os": "Android 15",
+      "stock": 110
+    },
+    {
+      "id": "tecno_camon_40_premier-13694",
+      "brand": "Tecno",
+      "model": "Camon 40 Premier",
+      "description": "Tecno Camon 40 Premier Android smartphone. Announced Mar 2025. Features 6.67″  display, Dimensity 8350 chipset, 5100 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass 7i.",
+      "price": 550,
+      "storage": [
+        "128 GB",
+        "256 GB",
+        "512 GB"
+      ],
+      "colors": [
+        "Blue",
+        "Gold",
+        "Black"
+      ],
+      "batterySize": "5100 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "8 GB",
+        "12 GB"
+      ],
+      "displaySize": "6.67″",
+      "releaseDate": "2025-03-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon-40-premier.jpg",
+      "frontCamera": "16 MP",
+      "backCamera": "64 MP + 12 MP",
+      "os": "Android 15",
+      "stock": 80
+    },
+    {
+      "id": "tecno_camon_40_pro-13695",
+      "brand": "Tecno",
+      "model": "Camon 40 Pro",
+      "description": "Tecno Camon 40 Pro 5G Android smartphone. Announced Mar 2025. Features 6.78″  display, Dimensity 7300 chipset, 5200 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass 7i.",
+      "price": 450,
+      "storage": [
+        "128 GB",
+        "256 GB"
+      ],
+      "colors": [
+        "Black",
+        "Silver",
+        "Red"
+      ],
+      "batterySize": "5200 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "8 GB",
+        "12 GB"
+      ],
+      "displaySize": "6.78″",
+      "releaseDate": "2025-03-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon-40-pro-5g.jpg",
+      "frontCamera": "16 MP",
+      "backCamera": "50 MP + 8 MP",
+      "os": "Android 15",
+      "stock": 100
+    },
+    {
+      "id": "tecno_camon_40_pro_4g-13696",
+      "brand": "Tecno",
+      "model": "Camon 40 Pro 4G",
+      "description": "Tecno Camon 40 Pro Android smartphone. Announced Mar 2025. Features 6.78″  display, Helio G100 Ultimate chipset, 5200 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 7i.",
+      "price": 350,
+      "storage": [
+        "128 GB",
+        "256 GB"
+      ],
+      "colors": [
+        "Green",
+        "Blue",
+        "White"
+      ],
+      "batterySize": "5200 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "6 GB",
+        "8 GB"
+      ],
+      "displaySize": "6.78″",
+      "releaseDate": "2025-03-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon-40-pro-4g.jpg",
+      "frontCamera": "12 MP",
+      "backCamera": "48 MP + 5 MP",
+      "os": "Android 15",
+      "stock": 130
+    },
+    {
+      "id": "tecno_camon_40-13697",
+      "brand": "Tecno",
+      "model": "Camon 40",
+      "description": "Tecno Camon 40 Android smartphone. Announced Mar 2025. Features 6.78″  display, Helio G100 Ultimate chipset, 5200 mAh battery, 256 GB storage, 12 GB RAM, Panda King Glass.",
+      "price": 400,
+      "storage": [
+        "128 GB",
+        "256 GB"
+      ],
+      "colors": [
+        "Black",
+        "Silver",
+        "Gold"
+      ],
+      "batterySize": "5200 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "8 GB",
+        "12 GB"
+      ],
+      "displaySize": "6.78″",
+      "releaseDate": "2025-03-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon-40-4g.jpg",
+      "frontCamera": "12 MP",
+      "backCamera": "48 MP + 8 MP",
+      "os": "Android 15",
+      "stock": 110
+    },
+    {
+      "id": "tecno_spark_go_1s-13648",
+      "brand": "Tecno",
+      "model": "Spark Go 1S",
+      "description": "Tecno Spark Go 1S Android smartphone. Announced Jan 2025. Features 6.67″  display, Helio G50 chipset, 5000 mAh battery, 64 GB storage, 3 GB RAM.",
+      "price": 120,
+      "storage": [
+        "64 GB",
+        "128 GB"
+      ],
+      "colors": [
+        "Blue",
+        "Black",
+        "White"
+      ],
+      "batterySize": "5000 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "3 GB",
+        "4 GB"
+      ],
+      "displaySize": "6.67″",
+      "releaseDate": "2025-01-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-go1.jpg",
+      "frontCamera": "5 MP",
+      "backCamera": "13 MP + 2 MP",
+      "os": "Android 15",
+      "stock": 170
+    },
+    {
+      "id": "tecno_megapad_11-13546",
+      "brand": "Tecno",
+      "model": "Megapad 11",
+      "description": "Tecno Megapad 11 Android tablet. Announced Dec 2024. Features 11.0″  display, Helio G99 chipset, 8000 mAh battery, 256 GB storage, 8 GB RAM.",
+      "price": 300,
+      "storage": [
+        "128 GB",
+        "256 GB"
+      ],
+      "colors": [
+        "Silver",
+        "Black",
+        "Green"
+      ],
+      "batterySize": "8000 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "6 GB",
+        "8 GB"
+      ],
+      "displaySize": "11.0″",
+      "releaseDate": "2024-12-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-megapad-11.jpg",
+      "frontCamera": "8 MP",
+      "backCamera": "13 MP",
+      "os": "Android 14",
+      "stock": 90
+    },
+    {
+      "id": "tecno_pop_9_4g-13509",
+      "brand": "Tecno",
+      "model": "Pop 9 4G",
+      "description": "Tecno Pop 9 4G Android smartphone. Announced Nov 2024. Features 6.67″  display, Unisoc T615 chipset, 5000 mAh battery, 128 GB storage, 4 GB RAM.",
+      "price": 150,
+      "storage": [
+        "64 GB",
+        "128 GB"
+      ],
+      "colors": [
+        "Blue",
+        "White",
+        "Black"
+      ],
+      "batterySize": "5000 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "4 GB",
+        "6 GB"
+      ],
+      "displaySize": "6.67″",
+      "releaseDate": "2024-11-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pop9-4g.jpg",
+      "frontCamera": "5 MP",
+      "backCamera": "13 MP + 2 MP",
+      "os": "Android 14",
+      "stock": 160
+    },
+    {
+      "id": "tecno_megapad-13268",
+      "brand": "Tecno",
+      "model": "Megapad",
+      "description": "Tecno Megapad Android tablet. Announced Oct 2024. Features 10.1″  display, Helio G80 chipset, 7000 mAh battery, 256 GB storage, 4 GB RAM.",
+      "price": 250,
+      "storage": [
+        "128 GB",
+        "256 GB"
+      ],
+      "colors": [
+        "Black",
+        "Silver",
+        "Green"
+      ],
+      "batterySize": "7000 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "4 GB",
+        "6 GB"
+      ],
+      "displaySize": "10.1″",
+      "releaseDate": "2024-10-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pad-r.jpg",
+      "frontCamera": "5 MP",
+      "backCamera": "13 MP",
+      "os": "Android 14",
+      "stock": 100
+    },
+    {
+      "id": "tecno_camon_30s-13426",
+      "brand": "Tecno",
+      "model": "Camon 30S",
+      "description": "Tecno Camon 30S Android smartphone. Announced Oct 2024. Features 6.78″  display, Helio G100 chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass.",
+      "price": 350,
+      "storage": [
+        "128 GB",
+        "256 GB"
+      ],
+      "colors": [
+        "Blue",
+        "Black",
+        "Gold"
+      ],
+      "batterySize": "5000 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "6 GB",
+        "8 GB"
+      ],
+      "displaySize": "6.78″",
+      "releaseDate": "2024-10-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon-30s.jpg",
+      "frontCamera": "12 MP",
+      "backCamera": "48 MP + 5 MP",
+      "os": "Android 14",
+      "stock": 120
+    },
+    {
+      "id": "tecno_spark_30c_5g-13385",
+      "brand": "Tecno",
+      "model": "Spark 30C 5G",
+      "description": "Tecno Spark 30C 5G Android smartphone. Announced Oct 2024. Features 6.67″  display, Dimensity 6300 chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM.",
+      "price": 300,
+      "storage": [
+        "128 GB",
+        "256 GB"
+      ],
+      "colors": [
+        "Black",
+        "Green",
+        "Silver"
+      ],
+      "batterySize": "5000 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "6 GB",
+        "8 GB"
+      ],
+      "displaySize": "6.67″",
+      "releaseDate": "2024-10-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-30c-5g.jpg",
+      "frontCamera": "8 MP",
+      "backCamera": "32 MP + 2 MP",
+      "os": "Android 14",
+      "stock": 110
+    },
+    {
+      "id": "tecno_spark_30_5g-13384",
+      "brand": "Tecno",
+      "model": "Spark 30 5G",
+      "description": "Tecno Spark 30 5G Android smartphone. Announced Oct 2024. Features 6.67″  display, Dimensity 6300 chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM.",
+      "price": 300,
+      "storage": [
+        "128 GB",
+        "256 GB"
+      ],
+      "colors": [
+        "Blue",
+        "White",
+        "Black"
+      ],
+      "batterySize": "5000 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "6 GB",
+        "8 GB"
+      ],
+      "displaySize": "6.67″",
+      "releaseDate": "2024-10-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-30-5g.jpg",
+      "frontCamera": "8 MP",
+      "backCamera": "32 MP + 2 MP",
+      "os": "Android 14",
+      "stock": 130
+    }
+  ],
+  "Samsung": [
+    {
+      "id": "samsung_galaxy_f36-14009",
+      "brand": "Samsung",
+      "model": "Galaxy F36",
+      "description": "Samsung Galaxy F36 5G Android smartphone. Announced Jul 2025. Features 6.7″  display, Exynos 1380 chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass Victus+.",
+      "price": 400,
+      "storage": [
+        "128 GB",
+        "256 GB"
+      ],
+      "colors": [
+        "Black",
+        "Blue",
+        "Silver"
+      ],
+      "batterySize": "5000 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "6 GB",
+        "8 GB"
+      ],
+      "displaySize": "6.7″",
+      "releaseDate": "2025-07-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-f36-1.jpg",
+      "frontCamera": "12 MP",
+      "backCamera": "48 MP + 8 MP",
+      "os": "Android 15",
+      "stock": 110
+    },
+    {
+      "id": "samsung_galaxy_z_fold7-13826",
+      "brand": "Samsung",
+      "model": "Galaxy Z Fold7",
+      "description": "Samsung Galaxy Z Fold7 Android smartphone. Announced Jul 2025. Features 8.0″  display, Snapdragon 8 Elite chipset, 4400 mAh battery, 1024 GB storage, 16 GB RAM.",
+      "price": 1200,
+      "storage": [
+        "512 GB",
+        "1024 GB"
+      ],
+      "colors": [
+        "Black",
+        "Silver",
+        "Gold"
+      ],
+      "batterySize": "4400 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "12 GB",
+        "16 GB"
+      ],
+      "displaySize": "8.0″",
+      "releaseDate": "2025-07-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-z-fold7.jpg",
+      "frontCamera": "12 MP",
+      "backCamera": "50 MP + 12 MP + 10 MP",
+      "os": "Android 15",
+      "stock": 80
+    },
+    {
+      "id": "samsung_galaxy_z_flip7-13712",
+      "brand": "Samsung",
+      "model": "Galaxy Z Flip7",
+      "description": "Samsung Galaxy Z Flip7 Android smartphone. Announced Jul 2025. Features 6.9″  display, Exynos 2500 chipset, 4300 mAh battery, 512 GB storage, 12 GB RAM.",
+      "price": 1000,
+      "storage": [
+        "256 GB",
+        "512 GB"
+      ],
+      "colors": [
+        "Blue",
+        "Black",
+        "Green"
+      ],
+      "batterySize": "4300 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "8 GB",
+        "12 GB"
+      ],
+      "displaySize": "6.9″",
+      "releaseDate": "2025-07-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-z-flip7.jpg",
+      "frontCamera": "12 MP",
+      "backCamera": "50 MP + 12 MP",
+      "os": "Android 15",
+      "stock": 90
+    },
+    {
+      "id": "samsung_galaxy_z_flip7_fe-13844",
+      "brand": "Samsung",
+      "model": "Galaxy Z Flip7 FE",
+      "description": "Samsung Galaxy Z Flip7 FE 5G Android smartphone. Announced Jul 2025. Features 6.7″  display, Exynos 2400 chipset, 4000 mAh battery, 256 GB storage, 8 GB RAM.",
+      "price": 800,
+      "storage": [
+        "128 GB",
+        "256 GB"
+      ],
+      "colors": [
+        "Silver",
+        "Black",
+        "Red"
+      ],
+      "batterySize": "4000 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "6 GB",
+        "8 GB"
+      ],
+      "displaySize": "6.7″",
+      "releaseDate": "2025-07-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-z-flip7-fe-.jpg",
+      "frontCamera": "10 MP",
+      "backCamera": "48 MP + 8 MP",
+      "os": "Android 15",
+      "stock": 100
+    },
+    {
+      "id": "samsung_galaxy_watch8_classic-13998",
+      "brand": "Samsung",
+      "model": "Galaxy Watch8 Classic",
+      "description": "Samsung Galaxy Watch8 Classic Android watch. Announced Jul 2025. Features 1.34″  display, Exynos W1000 chipset, 445 mAh battery, 64 GB storage, 2 GB RAM, MIL-STD-810H compliant, Sapphire crystal.",
+      "price": 350,
+      "storage": [
+        "64 GB"
+      ],
+      "colors": [
+        "Black",
+        "Silver"
+      ],
+      "batterySize": "445 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "2 GB"
+      ],
+      "displaySize": "1.34″",
+      "releaseDate": "2025-07-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-watch8-classic.jpg",
+      "frontCamera": "None",
+      "backCamera": "None",
+      "os": "Wear OS 5",
+      "stock": 120
+    },
+    {
+      "id": "samsung_galaxy_watch8-13997",
+      "brand": "Samsung",
+      "model": "Galaxy Watch8",
+      "description": "Samsung Galaxy Watch8 Android watch. Announced Jul 2025. Features 1.47″  display, Exynos W1000 chipset, 435 mAh battery, 32 GB storage, 2 GB RAM, MIL-STD-810H compliant, Sapphire crystal.",
+      "price": 300,
+      "storage": [
+        "32 GB"
+      ],
+      "colors": [
+        "Black",
+        "Silver",
+        "Gold"
+      ],
+      "batterySize": "435 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "2 GB"
+      ],
+      "displaySize": "1.47″",
+      "releaseDate": "2025-07-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-watch8.jpg",
+      "frontCamera": "None",
+      "backCamera": "None",
+      "os": "Wear OS 5",
+      "stock": 130
+    },
+    {
+      "id": "samsung_galaxy_m36-13967",
+      "brand": "Samsung",
+      "model": "Galaxy M36",
+      "description": "Samsung Galaxy M36 5G Android smartphone. Announced Jun 2025. Features 6.7″  display, Exynos 1380 chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass Victus+.",
+      "price": 400,
+      "storage": [
+        "128 GB",
+        "256 GB"
+      ],
+      "colors": [
+        "Blue",
+        "Black",
+        "White"
+      ],
+      "batterySize": "5000 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "6 GB",
+        "8 GB"
+      ],
+      "displaySize": "6.7″",
+      "releaseDate": "2025-06-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-m36.jpg",
+      "frontCamera": "12 MP",
+      "backCamera": "48 MP + 8 MP",
+      "os": "Android 15",
+      "stock": 110
+    },
+    {
+      "id": "samsung_galaxy_s25_edge-13506",
+      "brand": "Samsung",
+      "model": "Galaxy S25 Edge",
+      "description": "Samsung Galaxy S25 Edge Android smartphone. Announced May 2025. Features 6.7″  display, Snapdragon 8 Elite chipset, 3900 mAh battery, 512 GB storage, 12 GB RAM, Corning Gorilla Glass Ceramic 2.",
+      "price": 900,
+      "storage": [
+        "256 GB",
+        "512 GB"
+      ],
+      "colors": [
+        "Black",
+        "Silver",
+        "Green"
+      ],
+      "batterySize": "3900 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "8 GB",
+        "12 GB"
+      ],
+      "displaySize": "6.7″",
+      "releaseDate": "2025-05-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s25-edge.jpg",
+      "frontCamera": "12 MP",
+      "backCamera": "50 MP + 12 MP + 10 MP",
+      "os": "Android 15",
+      "stock": 90
+    },
+    {
+      "id": "samsung_galaxy_f56-13855",
+      "brand": "Samsung",
+      "model": "Galaxy F56",
+      "description": "Samsung Galaxy F56 5G Android smartphone. Announced May 2025. Features 6.74″  display, Exynos 1480 chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass Victus+.",
+      "price": 450,
+      "storage": [
+        "128 GB",
+        "256 GB"
+      ],
+      "colors": [
+        "Blue",
+        "Black",
+        "Red"
+      ],
+      "batterySize": "5000 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "6 GB",
+        "8 GB"
+      ],
+      "displaySize": "6.74″",
+      "releaseDate": "2025-05-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-f56-5g.jpg",
+      "frontCamera": "12 MP",
+      "backCamera": "48 MP + 8 MP",
+      "os": "Android 15",
+      "stock": 100
+    },
+    {
+      "id": "samsung_galaxy_m56-13801",
+      "brand": "Samsung",
+      "model": "Galaxy M56",
+      "description": "Samsung Galaxy M56 5G Android smartphone. Announced Apr 2025. Features 6.74″  display, Exynos 1480 chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass Victus+.",
+      "price": 450,
+      "storage": [
+        "128 GB",
+        "256 GB"
+      ],
+      "colors": [
+        "Black",
+        "Silver",
+        "Green"
+      ],
+      "batterySize": "5000 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "6 GB",
+        "8 GB"
+      ],
+      "displaySize": "6.74″",
+      "releaseDate": "2025-04-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-m56-5g.jpg",
+      "frontCamera": "12 MP",
+      "backCamera": "48 MP + 8 MP",
+      "os": "Android 15",
+      "stock": 110
+    },
+    {
+      "id": "samsung_galaxy_xcover7_pro-13780",
+      "brand": "Samsung",
+      "model": "Galaxy XCover7 Pro",
+      "description": "Samsung Galaxy XCover7 Pro Android smartphone. Announced Apr 2025. Features 6.6″  display, Snapdragon 7s Gen 3 chipset, 4350 mAh battery, 128 GB storage, 6 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass Victus+.",
+      "price": 500,
+      "storage": [
+        "128 GB",
+        "256 GB"
+      ],
+      "colors": [
+        "Black",
+        "Green",
+        "Silver"
+      ],
+      "batterySize": "4350 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "6 GB",
+        "8 GB"
+      ],
+      "displaySize": "6.6″",
+      "releaseDate": "2025-04-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-xcover7-pro-1.jpg",
+      "frontCamera": "12 MP",
+      "backCamera": "50 MP + 8 MP",
+      "os": "Android 15",
+      "stock": 100
+    },
+    {
+      "id": "samsung_galaxy_tab_active5_pro-13790",
+      "brand": "Samsung",
+      "model": "Galaxy Tab Active5 Pro",
+      "description": "Samsung Galaxy Tab Active5 Pro Android tablet. Announced Apr 2025. Features 10.1″  display, Snapdragon 7s Gen 3 chipset, 10100 mAh battery, 256 GB storage, 8 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass Victus+.",
+      "price": 600,
+      "storage": [
+        "128 GB",
+        "256 GB"
+      ],
+      "colors": [
+        "Black",
+        "Silver"
+      ],
+      "batterySize": "10100 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "6 GB",
+        "8 GB"
+      ],
+      "displaySize": "10.1″",
+      "releaseDate": "2025-04-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-tab-active5-pro.jpg",
+      "frontCamera": "8 MP",
+      "backCamera": "13 MP",
+      "os": "Android 15",
+      "stock": 90
+    },
+    {
+      "id": "samsung_galaxy_tab_s10_fe+-13760",
+      "brand": "Samsung",
+      "model": "Galaxy Tab S10 FE+",
+      "description": "Samsung Galaxy Tab S10 FE+ Android tablet. Announced Apr 2025. Features 13.1″  display, Exynos 1580 chipset, 10090 mAh battery, 256 GB storage, 12 GB RAM.",
+      "price": 700,
+      "storage": [
+        "128 GB",
+        "256 GB",
+        "512 GB"
+      ],
+      "colors": [
+        "Silver",
+        "Black",
+        "Blue"
+      ],
+      "batterySize": "10090 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "8 GB",
+        "12 GB"
+      ],
+      "displaySize": "13.1″",
+      "releaseDate": "2025-04-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-tab-s10-fe-plus.jpg",
+      "frontCamera": "12 MP",
+      "backCamera": "13 MP + 5 MP",
+      "os": "Android 15",
+      "stock": 80
+    },
+    {
+      "id": "samsung_galaxy_tab_s10_fe-13761",
+      "brand": "Samsung",
+      "model": "Galaxy Tab S10 FE",
+      "description": "Samsung Galaxy Tab S10 FE Android tablet. Announced Apr 2025. Features 10.9″  display, Exynos 1580 chipset, 8000 mAh battery, 256 GB storage, 12 GB RAM.",
+      "price": 600,
+      "storage": [
+        "128 GB",
+        "256 GB"
+      ],
+      "colors": [
+        "Black",
+        "Silver",
+        "Green"
+      ],
+      "batterySize": "8000 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "8 GB",
+        "12 GB"
+      ],
+      "displaySize": "10.9″",
+      "releaseDate": "2025-04-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-tab-s10-fe.jpg",
+      "frontCamera": "12 MP",
+      "backCamera": "13 MP",
+      "os": "Android 15",
+      "stock": 100
+    },
+    {
+      "id": "samsung_galaxy_f16-13721",
+      "brand": "Samsung",
+      "model": "Galaxy F16",
+      "description": "Samsung Galaxy F16 Android smartphone. Announced Mar 2025. Features 6.7″  display, Dimensity 6300 chipset, 5000 mAh battery, 128 GB storage, 8 GB RAM.",
+      "price": 300,
+      "storage": [
+        "64 GB",
+        "128 GB"
+      ],
+      "colors": [
+        "Blue",
+        "Black",
+        "White"
+      ],
+      "batterySize": "5000 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "6 GB",
+        "8 GB"
+      ],
+      "displaySize": "6.7″",
+      "releaseDate": "2025-03-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-f16-5g.jpg",
+      "frontCamera": "8 MP",
+      "backCamera": "32 MP + 5 MP",
+      "os": "Android 15",
+      "stock": 120
+    },
+    {
+      "id": "samsung_galaxy_a56-13603",
+      "brand": "Samsung",
+      "model": "Galaxy A56",
+      "description": "Samsung Galaxy A56 Android smartphone. Announced Mar 2025. Features 6.7″  display, Exynos 1580 chipset, 5000 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass Victus+.",
+      "price": 500,
+      "storage": [
+        "128 GB",
+        "256 GB"
+      ],
+      "colors": [
+        "Black",
+        "Silver",
+        "Blue"
+      ],
+      "batterySize": "5000 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "8 GB",
+        "12 GB"
+      ],
+      "displaySize": "6.7″",
+      "releaseDate": "2025-03-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a56-.jpg",
+      "frontCamera": "12 MP",
+      "backCamera": "50 MP + 8 MP",
+      "os": "Android 15",
+      "stock": 110
+    },
+    {
+      "id": "samsung_galaxy_a36-13497",
+      "brand": "Samsung",
+      "model": "Galaxy A36",
+      "description": "Samsung Galaxy A36 Android smartphone. Announced Mar 2025. Features 6.7″  display, Snapdragon 6 Gen 3 chipset, 5000 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass Victus+.",
+      "price": 450,
+      "storage": [
+        "128 GB",
+        "256 GB"
+      ],
+      "colors": [
+        "Blue",
+        "Black",
+        "Green"
+      ],
+      "batterySize": "5000 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "8 GB",
+        "12 GB"
+      ],
+      "displaySize": "6.7″",
+      "releaseDate": "2025-03-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a36.jpg",
+      "frontCamera": "12 MP",
+      "backCamera": "48 MP + 8 MP",
+      "os": "Android 15",
+      "stock": 100
+    },
+    {
+      "id": "samsung_galaxy_a26-13679",
+      "brand": "Samsung",
+      "model": "Galaxy A26",
+      "description": "Samsung Galaxy A26 Android smartphone. Announced Mar 2025. Features 6.7″  display, Exynos 1380 chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass Victus+.",
+      "price": 400,
+      "storage": [
+        "128 GB",
+        "256 GB"
+      ],
+      "colors": [
+        "Black",
+        "Silver",
+        "Red"
+      ],
+      "batterySize": "5000 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "6 GB",
+        "8 GB"
+      ],
+      "displaySize": "6.7″",
+      "releaseDate": "2025-03-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a26.jpg",
+      "frontCamera": "12 MP",
+      "backCamera": "48 MP + 8 MP",
+      "os": "Android 15",
+      "stock": 120
+    },
+    {
+      "id": "samsung_galaxy_m16-13680",
+      "brand": "Samsung",
+      "model": "Galaxy M16",
+      "description": "Samsung Galaxy M16 Android smartphone. Announced Feb 2025. Features 6.7″  display, Dimensity 6300 chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM.",
+      "price": 300,
+      "storage": [
+        "128 GB",
+        "256 GB"
+      ],
+      "colors": [
+        "Blue",
+        "Black",
+        "White"
+      ],
+      "batterySize": "5000 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "6 GB",
+        "8 GB"
+      ],
+      "displaySize": "6.7″",
+      "releaseDate": "2025-02-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-m16-5g-.jpg",
+      "frontCamera": "8 MP",
+      "backCamera": "32 MP + 5 MP",
+      "os": "Android 15",
+      "stock": 130
+    },
+    {
+      "id": "samsung_galaxy_m06-13681",
+      "brand": "Samsung",
+      "model": "Galaxy M06",
+      "description": "Samsung Galaxy M06 Android smartphone. Announced Feb 2025. Features 6.74″  display, Dimensity 6300 chipset, 5000 mAh battery, 128 GB storage, 6 GB RAM.",
+      "price": 250,
+      "storage": [
+        "64 GB",
+        "128 GB"
+      ],
+      "colors": [
+        "Black",
+        "Green",
+        "Silver"
+      ],
+      "batterySize": "5000 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "4 GB",
+        "6 GB"
+      ],
+      "displaySize": "6.74″",
+      "releaseDate": "2025-02-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-m06-5g.jpg",
+      "frontCamera": "8 MP",
+      "backCamera": "16 MP + 2 MP",
+      "os": "Android 15",
+      "stock": 140
+    }
+  ],
+  "Xiaomi": [
+    {
+      "id": "xiaomi_14_civi_limited_edition-13628",
+      "brand": "Xiaomi",
+      "model": "14 Civi Limited Edition",
+      "description": "Xiaomi 14 Civi Limited Edition Android smartphone. Announced Oct 2024. Features 6.55″  display, Snapdragon 8s Gen 3 chipset, 4700 mAh battery, 512 GB storage, 12 GB RAM, Corning Gorilla Glass Victus 2.",
+      "price": 600,
+      "storage": [
+        "256 GB",
+        "512 GB"
+      ],
+      "colors": [
+        "Black",
+        "Blue",
+        "Gold"
+      ],
+      "batterySize": "4700 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "8 GB",
+        "12 GB"
+      ],
+      "displaySize": "6.55″",
+      "releaseDate": "2024-10-01T00:00:00.000Z",
+      "image": "https://i03.appmifile.com/184_item_in/05/08/2024/d4da7c9584512c56d4b852176f1f3bc5.png",
+      "frontCamera": "32 MP",
+      "backCamera": "50 MP + 12 MP",
+      "os": "Android 14",
+      "stock": 100
+    },
+    {
+      "id": "xiaomi_redmi_a3_pro-13432",
+      "brand": "Xiaomi",
+      "model": "Redmi A3 Pro",
+      "description": "Xiaomi Redmi A3 Pro Android smartphone. Announced Oct 2024. Features 6.88″  display, Helio G81 Ultra chipset, 5160 mAh battery, 128 GB storage, 4 GB RAM.",
+      "price": 200,
+      "storage": [
+        "64 GB",
+        "128 GB"
+      ],
+      "colors": [
+        "Black",
+        "Green",
+        "White"
+      ],
+      "batterySize": "5160 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "4 GB",
+        "6 GB"
+      ],
+      "displaySize": "6.88″",
+      "releaseDate": "2024-10-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-a3-pro.jpg",
+      "frontCamera": "8 MP",
+      "backCamera": "16 MP + 2 MP",
+      "os": "Android 14",
+      "stock": 150
+    },
+    {
+      "id": "xiaomi_14t_pro-13328",
+      "brand": "Xiaomi",
+      "model": "14T Pro",
+      "description": "Xiaomi 14T Pro Android smartphone. Announced Sep 2024. Features 6.67″  display, Dimensity 9300+ chipset, 5000 mAh battery, 1024 GB storage, 16 GB RAM, Corning Gorilla Glass 5.",
+      "price": 800,
+      "storage": [
+        "512 GB",
+        "1024 GB"
+      ],
+      "colors": [
+        "Black",
+        "Silver",
+        "Blue"
+      ],
+      "batterySize": "5000 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "12 GB",
+        "16 GB"
+      ],
+      "displaySize": "6.67″",
+      "releaseDate": "2024-09-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-14t-pro.jpg",
+      "frontCamera": "32 MP",
+      "backCamera": "50 MP + 12 MP + 8 MP",
+      "os": "Android 14",
+      "stock": 90
+    },
+    {
+      "id": "xiaomi_14t-13329",
+      "brand": "Xiaomi",
+      "model": "14T",
+      "description": "Xiaomi 14T Android smartphone. Announced Sep 2024. Features 6.67″  display, Dimensity 8300 Ultra chipset, 5000 mAh battery, 512 GB storage, 16 GB RAM, Corning Gorilla Glass 5.",
+      "price": 700,
+      "storage": [
+        "256 GB",
+        "512 GB"
+      ],
+      "colors": [
+        "Blue",
+        "Black",
+        "Green"
+      ],
+      "batterySize": "5000 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "12 GB",
+        "16 GB"
+      ],
+      "displaySize": "6.67″",
+      "releaseDate": "2024-09-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-14t.jpg",
+      "frontCamera": "32 MP",
+      "backCamera": "50 MP + 12 MP",
+      "os": "Android 14",
+      "stock": 100
+    },
+    {
+      "id": "xiaomi_redmi_note_14_5g_(china)-13366",
+      "brand": "Xiaomi",
+      "model": "Redmi Note 14 5G (China)",
+      "description": "Xiaomi Redmi Note 14 (China) Android smartphone. Announced Sep 2024. Features 6.67″  display, Dimensity 7025 Ultra chipset, 5110 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass 5.",
+      "price": 450,
+      "storage": [
+        "128 GB",
+        "256 GB"
+      ],
+      "colors": [
+        "Black",
+        "Silver",
+        "Red"
+      ],
+      "batterySize": "5110 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "8 GB",
+        "12 GB"
+      ],
+      "displaySize": "6.67″",
+      "releaseDate": "2024-09-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-14-5g.jpg",
+      "frontCamera": "16 MP",
+      "backCamera": "50 MP + 8 MP",
+      "os": "Android 14",
+      "stock": 110
+    }
+  ],
+  "Google": [
+    {
+      "id": "google_pixel_9a-13478",
+      "brand": "Google",
+      "model": "Pixel 9a",
+      "description": "Google Pixel 9a Android smartphone. Announced Mar 2025. Features 6.3″  display, Google Tensor G4 chipset, 5100 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 3.",
+      "price": 500,
+      "storage": [
+        "128 GB",
+        "256 GB"
+      ],
+      "colors": [
+        "Black",
+        "Silver",
+        "Blue"
+      ],
+      "batterySize": "5100 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "6 GB",
+        "8 GB"
+      ],
+      "displaySize": "6.3″",
+      "releaseDate": "2025-03-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-9a.jpg",
+      "frontCamera": "12 MP",
+      "backCamera": "48 MP + 13 MP",
+      "os": "Android 15",
+      "stock": 100
+    },
+    {
+      "id": "google_pixel_9_pro_xl-13217",
+      "brand": "Google",
+      "model": "Pixel 9 Pro XL",
+      "description": "Google Pixel 9 Pro XL Android smartphone. Announced Aug 2024. Features 6.8″  display, Google Tensor G4 chipset, 5060 mAh battery, 1024 GB storage, 16 GB RAM, Corning Gorilla Glass Victus 2.",
+      "price": 1000,
+      "storage": [
+        "512 GB",
+        "1024 GB"
+      ],
+      "colors": [
+        "Black",
+        "Silver",
+        "Green"
+      ],
+      "batterySize": "5060 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "12 GB",
+        "16 GB"
+      ],
+      "displaySize": "6.8″",
+      "releaseDate": "2024-08-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-9-pro-xl-.jpg",
+      "frontCamera": "12 MP",
+      "backCamera": "50 MP + 48 MP + 12 MP",
+      "os": "Android 14",
+      "stock": 90
+    },
+    {
+      "id": "google_pixel_9_pro-13218",
+      "brand": "Google",
+      "model": "Pixel 9 Pro",
+      "description": "Google Pixel 9 Pro Android smartphone. Announced Aug 2024. Features 6.3″  display, Google Tensor G4 chipset, 4700 mAh battery, 1024 GB storage, 16 GB RAM, Corning Gorilla Glass Victus 2.",
+      "price": 900,
+      "storage": [
+        "512 GB",
+        "1024 GB"
+      ],
+      "colors": [
+        "Blue",
+        "Black",
+        "Gold"
+      ],
+      "batterySize": "4700 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "12 GB",
+        "16 GB"
+      ],
+      "displaySize": "6.3″",
+      "releaseDate": "2024-08-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-9-pro-.jpg",
+      "frontCamera": "12 MP",
+      "backCamera": "50 MP + 48 MP",
+      "os": "Android 14",
+      "stock": 100
+    },
+    {
+      "id": "google_pixel_9-13219",
+      "brand": "Google",
+      "model": "Pixel 9",
+      "description": "Google Pixel 9 Android smartphone. Announced Aug 2024. Features 6.3″  display, Google Tensor G4 chipset, 4700 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass Victus 2.",
+      "price": 700,
+      "storage": [
+        "128 GB",
+        "256 GB"
+      ],
+      "colors": [
+        "Black",
+        "Silver",
+        "Red"
+      ],
+      "batterySize": "4700 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "8 GB",
+        "12 GB"
+      ],
+      "displaySize": "6.3″",
+      "releaseDate": "2024-08-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-9-.jpg",
+      "frontCamera": "12 MP",
+      "backCamera": "50 MP + 12 MP",
+      "os": "Android 14",
+      "stock": 110
+    },
+    {
+      "id": "google_pixel_9_pro_fold-13220",
+      "brand": "Google",
+      "model": "Pixel 9 Pro Fold",
+      "description": "Google Pixel 9 Pro Fold Android smartphone. Announced Aug 2024. Features 8.0″  display, Google Tensor G4 chipset, 4650 mAh battery, 512 GB storage, 16 GB RAM.",
+      "price": 1100,
+      "storage": [
+        "256 GB",
+        "512 GB"
+      ],
+      "colors": [
+        "Black",
+        "Silver",
+        "Blue"
+      ],
+      "batterySize": "4650 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "12 GB",
+        "16 GB"
+      ],
+      "displaySize": "8.0″",
+      "releaseDate": "2024-08-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-9-pro-fold-.jpg",
+      "frontCamera": "10 MP",
+      "backCamera": "48 MP + 12 MP + 10 MP",
+      "os": "Android 14",
+      "stock": 80
+    },
+    {
+      "id": "google_pixel_watch_3-13253",
+      "brand": "Google",
+      "model": "Pixel Watch 3",
+      "description": "Google Pixel Watch 3 Android watch. Announced Aug 2024. Features 1.4″  display, SW5100 chipset, 420 mAh battery, 32 GB storage, 2 GB RAM, Corning Gorilla Glass 5.",
+      "price": 350,
+      "storage": [
+        "32 GB"
+      ],
+      "colors": [
+        "Black",
+        "Silver"
+      ],
+      "batterySize": "420 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "2 GB"
+      ],
+      "displaySize": "1.4″",
+      "releaseDate": "2024-08-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-watch3-.jpg",
+      "frontCamera": "None",
+      "backCamera": "None",
+      "os": "Wear OS 5",
+      "stock": 120
+    },
+    {
+      "id": "google_pixel_8a-12937",
+      "brand": "Google",
+      "model": "Pixel 8a",
+      "description": "Google Pixel 8a Android smartphone. Announced May 2024. Features 6.1″  display, Google Tensor G3 chipset, 4492 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 3.",
+      "price": 500,
+      "storage": [
+        "128 GB",
+        "256 GB"
+      ],
+      "colors": [
+        "Black",
+        "Blue",
+        "Green"
+      ],
+      "batterySize": "4492 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "6 GB",
+        "8 GB"
+      ],
+      "displaySize": "6.1″",
+      "releaseDate": "2024-05-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-8a.jpg",
+      "frontCamera": "12 MP",
+      "backCamera": "48 MP + 13 MP",
+      "os": "Android 14",
+      "stock": 110
+    },
+    {
+      "id": "google_pixel_8_pro-12545",
+      "brand": "Google",
+      "model": "Pixel 8 Pro",
+      "description": "Google Pixel 8 Pro Android smartphone. Announced Oct 2023. Features 6.7″  display, Google Tensor G3 chipset, 5050 mAh battery, 1024 GB storage, 12 GB RAM, Corning Gorilla Glass Victus 2.",
+      "price": 900,
+      "storage": [
+        "512 GB",
+        "1024 GB"
+      ],
+      "colors": [
+        "Black",
+        "Silver",
+        "Gold"
+      ],
+      "batterySize": "5050 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "8 GB",
+        "12 GB"
+      ],
+      "displaySize": "6.7″",
+      "releaseDate": "2023-10-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-8-pro.jpg",
+      "frontCamera": "12 MP",
+      "backCamera": "50 MP + 48 MP + 12 MP",
+      "os": "Android 14",
+      "stock": 100
+    },
+    {
+      "id": "google_pixel_8-12546",
+      "brand": "Google",
+      "model": "Pixel 8",
+      "description": "Google Pixel 8 Android smartphone. Announced Oct 2023. Features 6.2″  display, Google Tensor G3 chipset, 4575 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass Victus.",
+      "price": 700,
+      "storage": [
+        "128 GB",
+        "256 GB"
+      ],
+      "colors": [
+        "Blue",
+        "Black",
+        "Red"
+      ],
+      "batterySize": "4575 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "6 GB",
+        "8 GB"
+      ],
+      "displaySize": "6.2″",
+      "releaseDate": "2023-10-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-8.jpg",
+      "frontCamera": "12 MP",
+      "backCamera": "50 MP + 12 MP",
+      "os": "Android 14",
+      "stock": 110
+    },
+    {
+      "id": "google_pixel_watch_2-12547",
+      "brand": "Google",
+      "model": "Pixel Watch 2",
+      "description": "Google Pixel Watch 2 Android watch. Announced Oct 2023. Features 1.2″  display, 5100 chipset, 306 mAh battery, 32 GB storage, 2 GB RAM, Corning Gorilla Glass 5.",
+      "price": 300,
+      "storage": [
+        "32 GB"
+      ],
+      "colors": [
+        "Black",
+        "Silver"
+      ],
+      "batterySize": "306 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "2 GB"
+      ],
+      "displaySize": "1.2″",
+      "releaseDate": "2023-10-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-watch-2.jpg",
+      "frontCamera": "None",
+      "backCamera": "None",
+      "os": "Wear OS 4",
+      "stock": 120
+    },
+    {
+      "id": "google_pixel_fold-12265",
+      "brand": "Google",
+      "model": "Pixel Fold",
+      "description": "Google Pixel Fold Android smartphone. Announced May 2023. Features 7.6″  display, Google Tensor G2 chipset, 4821 mAh battery, 512 GB storage, 12 GB RAM.",
+      "price": 1000,
+      "storage": [
+        "256 GB",
+        "512 GB"
+      ],
+      "colors": [
+        "Black",
+        "Silver",
+        "Blue"
+      ],
+      "batterySize": "4821 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "8 GB",
+        "12 GB"
+      ],
+      "displaySize": "7.6″",
+      "releaseDate": "2023-05-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-fold.jpg",
+      "frontCamera": "8 MP",
+      "backCamera": "48 MP + 12 MP + 10 MP",
+      "os": "Android 14",
+      "stock": 90
+    },
+    {
+      "id": "google_pixel_tablet-11905",
+      "brand": "Google",
+      "model": "Pixel Tablet",
+      "description": "Google Pixel Tablet Android tablet. Announced May 2023. Features 10.95″  display, Google Tensor G2 chipset, 7020 mAh battery, 256 GB storage, 8 GB RAM.",
+      "price": 600,
+      "storage": [
+        "128 GB",
+        "256 GB"
+      ],
+      "colors": [
+        "Black",
+        "Silver",
+        "Green"
+      ],
+      "batterySize": "7020 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "6 GB",
+        "8 GB"
+      ],
+      "displaySize": "10.95″",
+      "releaseDate": "2023-05-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-tablet-1.jpg",
+      "frontCamera": "8 MP",
+      "backCamera": "13 MP",
+      "os": "Android 14",
+      "stock": 100
+    },
+    {
+      "id": "google_pixel_7a-12170",
+      "brand": "Google",
+      "model": "Pixel 7a",
+      "description": "Google Pixel 7a Android smartphone. Announced May 2023. Features 6.1″  display, Google Tensor G2 chipset, 4385 mAh battery, 128 GB storage, 8 GB RAM, Corning Gorilla Glass 3.",
+      "price": 500,
+      "storage": [
+        "128 GB",
+        "256 GB"
+      ],
+      "colors": [
+        "Blue",
+        "Black",
+        "Red"
+      ],
+      "batterySize": "4385 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "6 GB",
+        "8 GB"
+      ],
+      "displaySize": "6.1″",
+      "releaseDate": "2023-05-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-7a.jpg",
+      "frontCamera": "12 MP",
+      "backCamera": "48 MP + 13 MP",
+      "os": "Android 14",
+      "stock": 110
+    },
+    {
+      "id": "google_pixel_7_pro-11908",
+      "brand": "Google",
+      "model": "Pixel 7 Pro",
+      "description": "Google Pixel 7 Pro Android smartphone. Announced Oct 2022. Features 6.7″  display, Google Tensor G2 chipset, 5000 mAh battery, 512 GB storage, 12 GB RAM, Corning Gorilla Glass Victus.",
+      "price": 800,
+      "storage": [
+        "256 GB",
+        "512 GB"
+      ],
+      "colors": [
+        "Black",
+        "Silver",
+        "Green"
+      ],
+      "batterySize": "5000 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "8 GB",
+        "12 GB"
+      ],
+      "displaySize": "6.7″",
+      "releaseDate": "2022-10-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel7-pro-new.jpg",
+      "frontCamera": "12 MP",
+      "backCamera": "50 MP + 48 MP + 12 MP",
+      "os": "Android 14",
+      "stock": 100
+    },
+    {
+      "id": "google_pixel_7-11903",
+      "brand": "Google",
+      "model": "Pixel 7",
+      "description": "Google Pixel 7 Android smartphone. Announced Oct 2022. Features 6.3″  display, Google Tensor G2 chipset, 4355 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass Victus.",
+      "price": 600,
+      "storage": [
+        "128 GB",
+        "256 GB"
+      ],
+      "colors": [
+        "Blue",
+        "Black",
+        "White"
+      ],
+      "batterySize": "4355 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "6 GB",
+        "8 GB"
+      ],
+      "displaySize": "6.3″",
+      "releaseDate": "2022-10-01T00:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/I/61MA2V18dOL._UF894,1000_QL80_.jpg",
+      "frontCamera": "12 MP",
+      "backCamera": "50 MP + 12 MP",
+      "os": "Android 14",
+      "stock": 110
+    },
+    {
+      "id": "google_pixel_6a-11229",
+      "brand": "Google",
+      "model": "Pixel 6a",
+      "description": "Google Pixel 6a Android smartphone. Announced May 2022. Features 6.1″  display, Google Tensor chipset, 4410 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 3.",
+      "price": 450,
+      "storage": [
+        "64 GB",
+        "128 GB"
+      ],
+      "colors": [
+        "Black",
+        "Green",
+        "Silver"
+      ],
+      "batterySize": "4410 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "4 GB",
+        "6 GB"
+      ],
+      "displaySize": "6.1�",
+      "releaseDate": "2022-05-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-6a.jpg",
+      "frontCamera": "8 MP",
+      "backCamera": "12 MP + 12 MP",
+      "os": "Android 14",
+      "stock": 120
+    },
+    {
+      "id": "google_pixel_6_pro-10918",
+      "brand": "Google",
+      "model": "Pixel 6 Pro",
+      "description": "Google Pixel 6 Pro Android smartphone. Announced Oct 2021. Features 6.7″  display, Google Tensor chipset, 5003 mAh battery, 512 GB storage, 12 GB RAM, Corning Gorilla Glass Victus.",
+      "price": 800,
+      "storage": [
+        "256 GB",
+        "512 GB"
+      ],
+      "colors": [
+        "Black",
+        "Silver",
+        "Gold"
+      ],
+      "batterySize": "5003 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "8 GB",
+        "12 GB"
+      ],
+      "displaySize": "6.7″",
+      "releaseDate": "2021-10-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-6-pro.jpg",
+      "frontCamera": "12 MP",
+      "backCamera": "50 MP + 48 MP + 12 MP",
+      "os": "Android 14",
+      "stock": 100
+    },
+    {
+      "id": "google_pixel_6-11037",
+      "brand": "Google",
+      "model": "Pixel 6",
+      "description": "Google Pixel 6 Android smartphone. Announced Oct 2021. Features 6.4″  display, Google Tensor chipset, 4614 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass Victus.",
+      "price": 600,
+      "storage": [
+        "128 GB",
+        "256 GB"
+      ],
+      "colors": [
+        "Blue",
+        "Black",
+        "Red"
+      ],
+      "batterySize": "4614 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "6 GB",
+        "8 GB"
+      ],
+      "displaySize": "6.4″",
+      "releaseDate": "2021-10-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-6.jpg",
+      "frontCamera": "8 MP",
+      "backCamera": "50 MP + 12 MP",
+      "os": "Android 14",
+      "stock": 110
+    }
+  ],
+  "Apple": [
+    {
+      "id": "apple_iphone_17_pro_max-13994",
+      "brand": "Apple",
+      "model": "iPhone 17 Pro Max",
+      "description": "Apple iPhone 17 Pro Max smartphone. Announced Sep 2025. Features 6.9″  display, Apple A19 Pro chipset, 4850 mAh battery, 1024 GB storage, 8 GB RAM, Ceramic Shield glass.",
+      "price": 1200,
+      "storage": [
+        "512 GB",
+        "1024 GB"
+      ],
+      "colors": [
+        "Black",
+        "Silver",
+        "Gold"
+      ],
+      "batterySize": "4850 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "8 GB",
+        "12 GB"
+      ],
+      "displaySize": "6.9″",
+      "releaseDate": "2025-09-01T00:00:00.000Z",
+      "image": "https://www.concept-phones.com/wp-content/uploads/2024/12/iphone-17-pro-max-visor-camera-design-render-2.jpg",
+      "frontCamera": "12 MP",
+      "backCamera": "48 MP + 12 MP + 12 MP",
+      "os": "iOS 19",
+      "stock": 80
+    },
+    {
+      "id": "apple_iphone_17_pro-13993",
+      "brand": "Apple",
+      "model": "iPhone 17 Pro",
+      "description": "Apple iPhone 17 Pro smartphone. Announced Sep 2025. Features 6.3″  display, Apple A19 Pro chipset, 3400 mAh battery, 1024 GB storage, 8 GB RAM, Ceramic Shield glass.",
+      "price": 1100,
+      "storage": [
+        "512 GB",
+        "1024 GB"
+      ],
+      "colors": [
+        "Black",
+        "Silver",
+        "Blue"
+      ],
+      "batterySize": "3400 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "8 GB",
+        "12 GB"
+      ],
+      "displaySize": "6.3″",
+      "releaseDate": "2025-09-01T00:00:00.000Z",
+      "image": "https://mobilemaya.net/wp-content/uploads/2025/03/apple-iphone-17-pro-500x500.jpg",
+      "frontCamera": "12 MP",
+      "backCamera": "48 MP + 12 MP + 12 MP",
+      "os": "iOS 19",
+      "stock": 90
+    },
+    {
+      "id": "apple_iphone_17-13992",
+      "brand": "Apple",
+      "model": "iPhone 17",
+      "description": "Apple iPhone 17 smartphone. Announced Sep 2025. Features 6.3″  display, Apple A19 chipset, 3400 mAh battery, 512 GB storage, 8 GB RAM, Ceramic Shield glass.",
+      "price": 900,
+      "storage": [
+        "256 GB",
+        "512 GB"
+      ],
+      "colors": [
+        "Black",
+        "Silver",
+        "Red"
+      ],
+      "batterySize": "3400 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "6 GB",
+        "8 GB"
+      ],
+      "displaySize": "6.3″",
+      "releaseDate": "2025-09-01T00:00:00.000Z",
+      "image": "https://images.macrumors.com/t/3zzm7VcAA2sRjc5kWZgZmdLwbEI=/2000x/article-new/2024/09/iphone-16-teal.jpg",
+      "frontCamera": "12 MP",
+      "backCamera": "48 MP + 12 MP",
+      "os": "iOS 19",
+      "stock": 100
+    },
+    {
+      "id": "apple_iphone_17_air-13995",
+      "brand": "Apple",
+      "model": "iPhone 17 Air",
+      "description": "Apple iPhone 17 Air smartphone. Announced Sep 2025. Features 6.6″  display, Apple A19 chipset, 3400 mAh battery, 512 GB storage, 8 GB RAM, Ceramic Shield glass.",
+      "price": 1000,
+      "storage": [
+        "256 GB",
+        "512 GB"
+      ],
+      "colors": [
+        "Blue",
+        "Black",
+        "White"
+      ],
+      "batterySize": "3400 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "6 GB",
+        "8 GB"
+      ],
+      "displaySize": "6.6″",
+      "releaseDate": "2025-09-01T00:00:00.000Z",
+      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc4/iPhone-17-air-render-zellzoi.png",
+      "frontCamera": "12 MP",
+      "backCamera": "48 MP + 12 MP",
+      "os": "iOS 19",
+      "stock": 90
+    },
+    {
+      "id": "apple_iphone_16_pro_max-13343",
+      "brand": "Apple",
+      "model": "iPhone 16 Pro Max",
+      "description": "Apple iPhone 16 Pro Max smartphone. Announced Sep 2024. Features 6.9″  display, Apple A18 Pro chipset, 4685 mAh battery, 1024 GB storage, 8 GB RAM, Ceramic Shield glass.",
+      "price": 1200,
+      "storage": [
+        "512 GB",
+        "1024 GB"
+      ],
+      "colors": [
+        "Black",
+        "Silver",
+        "Gold"
+      ],
+      "batterySize": "4685 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "8 GB",
+        "12 GB"
+      ],
+      "displaySize": "6.9″",
+      "releaseDate": "2024-09-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-16-pro-max.jpg",
+      "frontCamera": "12 MP",
+      "backCamera": "48 MP + 12 MP + 12 MP",
+      "os": "iOS 18",
+      "stock": 80
+    },
+    {
+      "id": "apple_iphone_16_pro-13342",
+      "brand": "Apple",
+      "model": "iPhone 16 Pro",
+      "description": "Apple iPhone 16 Pro smartphone. Announced Sep 2024. Features 6.3″  display, Apple A18 Pro chipset, 3582 mAh battery, 1024 GB storage, 8 GB RAM, Ceramic Shield glass.",
+      "price": 1100,
+      "storage": [
+        "512 GB",
+        "1024 GB"
+      ],
+      "colors": [
+        "Black",
+        "Silver",
+        "Blue"
+      ],
+      "batterySize": "3582 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "8 GB",
+        "12 GB"
+      ],
+      "displaySize": "6.3″",
+      "releaseDate": "2024-09-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-16-pro.jpg",
+      "frontCamera": "12 MP",
+      "backCamera": "48 MP + 12 MP + 12 MP",
+      "os": "iOS 18",
+      "stock": 90
+    },
+    {
+      "id": "apple_iphone_16-13341",
+      "brand": "Apple",
+      "model": "iPhone 16",
+      "description": "Apple iPhone 16 smartphone. Announced Sep 2024. Features 6.1″  display, Apple A18 chipset, 3561 mAh battery, 512 GB storage, 8 GB RAM, Ceramic Shield glass.",
+      "price": 900,
+      "storage": [
+        "256 GB",
+        "512 GB"
+      ],
+      "colors": [
+        "Blue",
+        "Black",
+        "White"
+      ],
+      "batterySize": "3561 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "6 GB",
+        "8 GB"
+      ],
+      "displaySize": "6.1″",
+      "releaseDate": "2024-09-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-16.jpg",
+      "frontCamera": "12 MP",
+      "backCamera": "48 MP + 12 MP",
+      "os": "iOS 18",
+      "stock": 100
+    },
+    {
+      "id": "apple_iphone_16_plus-13340",
+      "brand": "Apple",
+      "model": "iPhone 16 Plus",
+      "description": "Apple iPhone 16 Plus smartphone. Announced Sep 2024. Features 6.7″  display, Apple A18 chipset, 4015 mAh battery, 512 GB storage, 8 GB RAM, Ceramic Shield glass.",
+      "price": 1000,
+      "storage": [
+        "256 GB",
+        "512 GB"
+      ],
+      "colors": [
+        "Black",
+        "Silver",
+        "Red"
+      ],
+      "batterySize": "4015 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "6 GB",
+        "8 GB"
+      ],
+      "displaySize": "6.7″",
+      "releaseDate": "2024-09-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-16-plus.jpg",
+      "frontCamera": "12 MP",
+      "backCamera": "48 MP + 12 MP",
+      "os": "iOS 18",
+      "stock": 90
+    },
+    {
+      "id": "apple_ipad_mini_(2024)-13356",
+      "brand": "Apple",
+      "model": "iPad mini (2024)",
+      "description": "Apple iPad mini (2024) tablet. Announced Sep 2024. Features 8.3″  display, Apple A17 Pro chipset, 512 GB storage, 4 GB RAM, Scratch-resistant glass.",
+      "price": 500,
+      "storage": [
+        "256 GB",
+        "512 GB"
+      ],
+      "colors": [
+        "Black",
+        "Silver",
+        "Blue"
+      ],
+      "batterySize": "Unknown",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "4 GB",
+        "6 GB"
+      ],
+      "displaySize": "8.3″",
+      "releaseDate": "2024-09-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-ipad-mini-2024.jpg",
+      "frontCamera": "12 MP",
+      "backCamera": "12 MP",
+      "os": "iPadOS 18",
+      "stock": 100
+    },
+    {
+      "id": "apple_iphone_15_pro_max-12548",
+      "brand": "Apple",
+      "model": "iPhone 15 Pro Max",
+      "description": "Apple iPhone 15 Pro Max smartphone. Announced Sep 2023. Features 6.7″  display, Apple A17 Pro chipset, 4441 mAh battery, 1024 GB storage, 8 GB RAM, Ceramic Shield glass.",
+      "price": 1200,
+      "storage": [
+        "512 GB",
+        "1024 GB"
+      ],
+      "colors": [
+        "Black",
+        "Silver",
+        "Gold"
+      ],
+      "batterySize": "4441 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "8 GB",
+        "12 GB"
+      ],
+      "displaySize": "6.7″",
+      "releaseDate": "2023-09-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-15-pro-max.jpg",
+      "frontCamera": "12 MP",
+      "backCamera": "48 MP + 12 MP + 12 MP",
+      "os": "iOS 18",
+      "stock": 80
+    },
+    {
+      "id": "apple_iphone_15_pro-12557",
+      "brand": "Apple",
+      "model": "iPhone 15 Pro",
+      "description": "Apple iPhone 15 Pro smartphone. Announced Sep 2023. Features 6.1″  display, Apple A17 Pro chipset, 3274 mAh battery, 1024 GB storage, 8 GB RAM, Ceramic Shield glass.",
+      "price": 1100,
+      "storage": [
+        "512 GB",
+        "1024 GB"
+      ],
+      "colors": [
+        "Black",
+        "Silver",
+        "Blue"
+      ],
+      "batterySize": "3274 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "8 GB",
+        "12 GB"
+      ],
+      "displaySize": "6.1″",
+      "releaseDate": "2023-09-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-15-pro.jpg",
+      "frontCamera": "12 MP",
+      "backCamera": "48 MP + 12 MP + 12 MP",
+      "os": "iOS 18",
+      "stock": 90
+    },
+    {
+      "id": "apple_iphone_15-12559",
+      "brand": "Apple",
+      "model": "iPhone 15",
+      "description": "Apple iPhone 15 smartphone. Announced Sep 2023. Features 6.1″  display, Apple A16 Bionic chipset, 3349 mAh battery, 512 GB storage, 6 GB RAM, Ceramic Shield glass.",
+      "price": 900,
+      "storage": [
+        "256 GB",
+        "512 GB"
+      ],
+      "colors": [
+        "Blue",
+        "Black",
+        "Red"
+      ],
+      "batterySize": "3349 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "6 GB",
+        "8 GB"
+      ],
+      "displaySize": "6.1″",
+      "releaseDate": "2023-09-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-15.jpg",
+      "frontCamera": "12 MP",
+      "backCamera": "48 MP + 12 MP",
+      "os": "iOS 18",
+      "stock": 100
+    },
+    {
+      "id": "apple_iphone_15_plus-12558",
+      "brand": "Apple",
+      "model": "iPhone 15 Plus",
+      "description": "Apple iPhone 15 Plus smartphone. Announced Sep 2023. Features 6.7″  display, Apple A16 Bionic chipset, 4383 mAh battery, 512 GB storage, 6 GB RAM, Ceramic Shield glass.",
+      "price": 1000,
+      "storage": [
+        "256 GB",
+        "512 GB"
+      ],
+      "colors": [
+        "Black",
+        "Silver",
+        "Green"
+      ],
+      "batterySize": "4383 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "6 GB",
+        "8 GB"
+      ],
+      "displaySize": "6.7″",
+      "releaseDate": "2023-09-01T00:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/I/51-dI0OmzyL._UF894,1000_QL80_.jpg",
+      "frontCamera": "12 MP",
+      "backCamera": "48 MP + 12 MP",
+      "os": "iOS 18",
+      "stock": 90
+    },
+    {
+      "id": "apple_ipad_(2022)-11938",
+      "brand": "Apple",
+      "model": "iPad (2022)",
+      "description": "Apple iPad (2022) tablet. Announced Oct 2022. Features 10.9″  display, Apple A14 Bionic chipset, 7606 mAh battery, 256 GB storage, 4 GB RAM, Scratch-resistant glass.",
+      "price": 500,
+      "storage": [
+        "128 GB",
+        "256 GB"
+      ],
+      "colors": [
+        "Silver",
+        "Blue",
+        "Black"
+      ],
+      "batterySize": "7606 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "4 GB",
+        "6 GB"
+      ],
+      "displaySize": "10.9″",
+      "releaseDate": "2022-10-01T00:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/I/61uA2UVnYWL._UF894,1000_QL80_.jpg",
+      "frontCamera": "12 MP",
+      "backCamera": "12 MP",
+      "os": "iPadOS 18",
+      "stock": 100
+    },
+    {
+      "id": "apple_ipad_pro_11_(2022)-11939",
+      "brand": "Apple",
+      "model": "iPad Pro 11 (2022)",
+      "description": "Apple iPad Pro 11 (2022) tablet. Announced Oct 2022. Features 11.0″  display, Apple M2 chipset, 7538 mAh battery, 2048 GB storage, 16 GB RAM, Scratch-resistant glass.",
+      "price": 1000,
+      "storage": [
+        "1024 GB",
+        "2048 GB"
+      ],
+      "colors": [
+        "Black",
+        "Silver"
+      ],
+      "batterySize": "7538 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "8 GB",
+        "16 GB"
+      ],
+      "displaySize": "11.0″",
+      "releaseDate": "2022-10-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-ipad-pro-11-2022.jpg",
+      "frontCamera": "12 MP",
+      "backCamera": "12 MP + 10 MP",
+      "os": "iPadOS 18",
+      "stock": 80
+    },
+    {
+      "id": "apple_ipad_pro_12.9_(2022)-11937",
+      "brand": "Apple",
+      "model": "iPad Pro 12.9 (2022)",
+      "description": "Apple iPad Pro 12.9 (2022) tablet. Announced Oct 2022. Features 12.9″  display, Apple M2 chipset, 10758 mAh battery, 2048 GB storage, 16 GB RAM, Scratch-resistant glass.",
+      "price": 1200,
+      "storage": [
+        "1024 GB",
+        "2048 GB"
+      ],
+      "colors": [
+        "Black",
+        "Silver"
+      ],
+      "batterySize": "10758 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "8 GB",
+        "16 GB"
+      ],
+      "displaySize": "12.9″",
+      "releaseDate": "2022-10-01T00:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/I/81rxOSprYqL._UF894,1000_QL80_.jpg",
+      "frontCamera": "12 MP",
+      "backCamera": "12 MP + 10 MP",
+      "os": "iPadOS 18",
+      "stock": 80
+    },
+    {
+      "id": "apple_iphone_14_pro_max-11773",
+      "brand": "Apple",
+      "model": "iPhone 14 Pro Max",
+      "description": "Apple iPhone 14 Pro Max smartphone. Announced Sep 2022. Features 6.7″  display, Apple A16 Bionic chipset, 4323 mAh battery, 1024 GB storage, 6 GB RAM, Ceramic Shield glass.",
+      "price": 1100,
+      "storage": [
+        "512 GB",
+        "1024 GB"
+      ],
+      "colors": [
+        "Black",
+        "Silver",
+        "Gold"
+      ],
+      "batterySize": "4323 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "6 GB",
+        "8 GB"
+      ],
+      "displaySize": "6.7″",
+      "releaseDate": "2022-09-01T00:00:00.000Z",
+      "image": "https://m.media-amazon.com/images/I/51GZNF-UxFL.jpg",
+      "frontCamera": "12 MP",
+      "backCamera": "48 MP + 12 MP + 12 MP",
+      "os": "iOS 18",
+      "stock": 90
+    },
+    {
+      "id": "apple_iphone_14_pro-11860",
+      "brand": "Apple",
+      "model": "iPhone 14 Pro",
+      "description": "Apple iPhone 14 Pro smartphone. Announced Sep 2022. Features 6.1″  display, Apple A16 Bionic chipset, 3200 mAh battery, 1024 GB storage, 6 GB RAM, Ceramic Shield glass.",
+      "price": 1000,
+      "storage": [
+        "512 GB",
+        "1024 GB"
+      ],
+      "colors": [
+        "Black",
+        "Silver",
+        "Blue"
+      ],
+      "batterySize": "3200 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "6 GB",
+        "8 GB"
+      ],
+      "displaySize": "6.1″",
+      "releaseDate": "2022-09-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-14-pro.jpg",
+      "frontCamera": "12 MP",
+      "backCamera": "48 MP + 12 MP + 12 MP",
+      "os": "iOS 18",
+      "stock": 100
+    },
+    {
+      "id": "apple_iphone_14-11862",
+      "brand": "Apple",
+      "model": "iPhone 14",
+      "description": "Apple iPhone 14 smartphone. Announced Sep 2022. Features 6.1″  display, Apple A15 Bionic chipset, 3279 mAh battery, 512 GB storage, 6 GB RAM, Ceramic Shield glass.",
+      "price": 800,
+      "storage": [
+        "256 GB",
+        "512 GB"
+      ],
+      "colors": [
+        "Blue",
+        "Black",
+        "Red"
+      ],
+      "batterySize": "3279 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "6 GB",
+        "8 GB"
+      ],
+      "displaySize": "6.1″",
+      "releaseDate": "2022-09-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-14.jpg",
+      "frontCamera": "12 MP",
+      "backCamera": "12 MP + 12 MP",
+      "os": "iOS 18",
+      "stock": 110
+    },
+    {
+      "id": "apple_iphone_14_plus-11861",
+      "brand": "Apple",
+      "model": "iPhone 14 Plus",
+      "description": "Apple iPhone 14 Plus smartphone. Announced Sep 2022. Features 6.7″  display, Apple A15 Bionic chipset, 4325 mAh battery, 512 GB storage, 6 GB RAM, Ceramic Shield glass.",
+      "price": 900,
+      "storage": [
+        "256 GB",
+        "512 GB"
+      ],
+      "colors": [
+        "Black",
+        "Silver",
+        "Green"
+      ],
+      "batterySize": "4325 mAh",
+      "batteryType": "Li-Po",
+      "ramSize": [
+        "6 GB",
+        "8 GB"
+      ],
+      "displaySize": "6.7″",
+      "releaseDate": "2022-09-01T00:00:00.000Z",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-14-plus.jpg",
+      "frontCamera": "12 MP",
+      "backCamera": "12 MP + 12 MP",
+      "os": "iOS 18",
+      "stock": 100
+    }
+  ]
+}

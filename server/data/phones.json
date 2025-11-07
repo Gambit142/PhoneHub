@@ -1,0 +1,1904 @@
+{
+  "Tecno": {
+    "data": [
+      {
+        "brand_id": 120,
+        "brand_name": "Tecno",
+        "id": "tecno_pova_7_pro-13990",
+        "phone_name": "Pova 7 Pro",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pova7-pro.jpg",
+        "description": "Tecno Pova 7 Pro 5G Android smartphone. Announced Jul 2025. Features 6.78″  display, Dimensity 7300 Ultimate chipset, 6000 mAh battery, 256 GB storage, 12 GB RAM."
+      },
+      {
+        "brand_id": 120,
+        "brand_name": "Tecno",
+        "id": "tecno_pova_7-13991",
+        "phone_name": "Pova 7",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pova7-5g.jpg",
+        "description": "Tecno Pova 7 5G Android smartphone. Announced Jul 2025. Features 6.78″  display, Dimensity 7300 Ultimate chipset, 6000 mAh battery, 256 GB storage, 8 GB RAM."
+      },
+      {
+        "brand_id": 120,
+        "brand_name": "Tecno",
+        "id": "tecno_spark_40_pro+-13986",
+        "phone_name": "Spark 40 Pro+",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/techno-spark-40-pro-plus.jpg",
+        "description": "Tecno Spark 40 Pro+ Android smartphone. Announced Jul 2025. Features 6.78″  display, Helio G200 chipset, 5200 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 7i."
+      },
+      {
+        "brand_id": 120,
+        "brand_name": "Tecno",
+        "id": "tecno_spark_40_pro-13985",
+        "phone_name": "Spark 40 Pro",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/techno-spark-40-pro.jpg",
+        "description": "Tecno Spark 40 Pro Android smartphone. Announced Jul 2025. Features 6.78″  display, Helio G100 Ultimate chipset, 5200 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 7i."
+      },
+      {
+        "brand_id": 120,
+        "brand_name": "Tecno",
+        "id": "tecno_spark_40-13984",
+        "phone_name": "Spark 40",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/techno-spark-40-4g.jpg",
+        "description": "Tecno Spark 40 4G Android smartphone. Announced Jul 2025. Features 6.67″  display, Helio G81 chipset, 5200 mAh battery, 256 GB storage, 8 GB RAM."
+      },
+      {
+        "brand_id": 120,
+        "brand_name": "Tecno",
+        "id": "tecno_pova_7_ultra-13976",
+        "phone_name": "Pova 7 Ultra",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pova7-ultra.jpg",
+        "description": "Tecno Pova 7 Ultra 5G Android smartphone. Announced Jun 2025. Features 6.67″  display, Dimensity 8350 Ultimate chipset, 6000 mAh battery, 256 GB storage, 12 GB RAM."
+      },
+      {
+        "brand_id": 120,
+        "brand_name": "Tecno",
+        "id": "tecno_pova_7_4g-13974",
+        "phone_name": "Pova 7 4G",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pova7.jpg",
+        "description": "Tecno Pova 7 Android smartphone. Announced Jun 2025. Features 6.78″  display, Helio G100 Ultimate chipset, 7000 mAh battery, 256 GB storage, 8 GB RAM."
+      },
+      {
+        "brand_id": 120,
+        "brand_name": "Tecno",
+        "id": "tecno_spark_go_2-13975",
+        "phone_name": "Spark Go 2",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-go2.jpg",
+        "description": "Tecno Spark Go 2 Android smartphone. Announced Jun 2025. Features 6.67″  display, Unisoc T7250 chipset, 5000 mAh battery, 256 GB storage, 4 GB RAM."
+      },
+      {
+        "brand_id": 120,
+        "brand_name": "Tecno",
+        "id": "tecno_pova_curve-13915",
+        "phone_name": "Pova Curve",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pova-curve-5g.jpg",
+        "description": "Tecno Pova Curve 5G Android smartphone. Announced May 2025. Features 6.78″  display, Dimensity 7300 Ultimate chipset, 5500 mAh battery, 128 GB storage, 8 GB RAM, Corning Gorilla Glass 5."
+      },
+      {
+        "brand_id": 120,
+        "brand_name": "Tecno",
+        "id": "tecno_camon_40_premier-13694",
+        "phone_name": "Camon 40 Premier",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon-40-premier.jpg",
+        "description": "Tecno Camon 40 Premier Android smartphone. Announced Mar 2025. Features 6.67″  display, Dimensity 8350 chipset, 5100 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass 7i."
+      },
+      {
+        "brand_id": 120,
+        "brand_name": "Tecno",
+        "id": "tecno_camon_40_pro-13695",
+        "phone_name": "Camon 40 Pro",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon-40-pro-5g.jpg",
+        "description": "Tecno Camon 40 Pro 5G Android smartphone. Announced Mar 2025. Features 6.78″  display, Dimensity 7300 chipset, 5200 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass 7i."
+      },
+      {
+        "brand_id": 120,
+        "brand_name": "Tecno",
+        "id": "tecno_camon_40_pro_4g-13696",
+        "phone_name": "Camon 40 Pro 4G",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon-40-pro-4g.jpg",
+        "description": "Tecno Camon 40 Pro Android smartphone. Announced Mar 2025. Features 6.78″  display, Helio G100 Ultimate chipset, 5200 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 7i."
+      },
+      {
+        "brand_id": 120,
+        "brand_name": "Tecno",
+        "id": "tecno_camon_40-13697",
+        "phone_name": "Camon 40",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon-40-4g.jpg",
+        "description": "Tecno Camon 40 Android smartphone. Announced Mar 2025. Features 6.78″  display, Helio G100 Ultimate chipset, 5200 mAh battery, 256 GB storage, 12 GB RAM, Panda King Glass."
+      },
+      {
+        "brand_id": 120,
+        "brand_name": "Tecno",
+        "id": "tecno_spark_go_1s-13648",
+        "phone_name": "Spark Go 1S",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-go1.jpg",
+        "description": "Tecno Spark Go 1S Android smartphone. Announced Jan 2025. Features 6.67″  display, Helio G50 chipset, 5000 mAh battery, 64 GB storage, 3 GB RAM."
+      },
+      {
+        "brand_id": 120,
+        "brand_name": "Tecno",
+        "id": "tecno_megapad_11-13546",
+        "phone_name": "Megapad 11",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/tecno-megapad-11.jpg",
+        "description": "Tecno Megapad 11 Android tablet. Announced Dec 2024. Features 11.0″  display, Helio G99 chipset, 8000 mAh battery, 256 GB storage, 8 GB RAM."
+      },
+      {
+        "brand_id": 120,
+        "brand_name": "Tecno",
+        "id": "tecno_pop_9_4g-13509",
+        "phone_name": "Pop 9 4G",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pop9-4g.jpg",
+        "description": "Tecno Pop 9 4G Android smartphone. Announced Nov 2024. Features 6.67″  display, Unisoc T615 chipset, 5000 mAh battery, 128 GB storage, 4 GB RAM."
+      },
+      {
+        "brand_id": 120,
+        "brand_name": "Tecno",
+        "id": "tecno_megapad-13268",
+        "phone_name": "Megapad",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pad-r.jpg",
+        "description": "Tecno Megapad Android tablet. Announced Oct 2024. Features 10.1″  display, Helio G80 chipset, 7000 mAh battery, 256 GB storage, 4 GB RAM."
+      },
+      {
+        "brand_id": 120,
+        "brand_name": "Tecno",
+        "id": "tecno_camon_30s-13426",
+        "phone_name": "Camon 30S",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon-30s.jpg",
+        "description": "Tecno Camon 30S Android smartphone. Announced Oct 2024. Features 6.78″  display, Helio G100 chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass."
+      },
+      {
+        "brand_id": 120,
+        "brand_name": "Tecno",
+        "id": "tecno_spark_30c_5g-13385",
+        "phone_name": "Spark 30C 5G",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-30c-5g.jpg",
+        "description": "Tecno Spark 30C 5G Android smartphone. Announced Oct 2024. Features 6.67″  display, Dimensity 6300 chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM."
+      },
+      {
+        "brand_id": 120,
+        "brand_name": "Tecno",
+        "id": "tecno_spark_30_5g-13384",
+        "phone_name": "Spark 30 5G",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-30-5g.jpg",
+        "description": "Tecno Spark 30 5G Android smartphone. Announced Oct 2024. Features 6.67″  display, Dimensity 6300 chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM."
+      },
+      {
+        "brand_id": 120,
+        "brand_name": "Tecno",
+        "id": "tecno_pop_9-13358",
+        "phone_name": "Pop 9",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pop9-5g.jpg",
+        "description": "Tecno Pop 9 Android smartphone. Announced Sep 2024. Features 6.6″  display, Dimensity 6300 chipset, 5000 mAh battery, 128 GB storage, 4 GB RAM."
+      },
+      {
+        "brand_id": 120,
+        "brand_name": "Tecno",
+        "id": "tecno_spark_30_pro-13357",
+        "phone_name": "Spark 30 Pro",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-30-pro.jpg",
+        "description": "Tecno Spark 30 Pro Android smartphone. Announced Sep 2024. Features 6.78″  display, Helio G100 chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM."
+      },
+      {
+        "brand_id": 120,
+        "brand_name": "Tecno",
+        "id": "tecno_spark_30-13356",
+        "phone_name": "Spark 30",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-30.jpg",
+        "description": "Tecno Spark 30 Android smartphone. Announced Sep 2024. Features 6.78″  display, Helio G91 chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM."
+      },
+      {
+        "brand_id": 120,
+        "brand_name": "Tecno",
+        "id": "tecno_phantom_v_fold2-13334",
+        "phone_name": "Phantom V Fold2",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/tecno-phantom-v-fold2-.jpg",
+        "description": "Tecno Phantom V Fold2 Android smartphone. Announced Sep 2024. Features 7.85″  display, Dimensity 9000+ chipset, 5750 mAh battery, 512 GB storage, 12 GB RAM."
+      },
+      {
+        "brand_id": 120,
+        "brand_name": "Tecno",
+        "id": "tecno_phantom_v_flip2-13335",
+        "phone_name": "Phantom V Flip2",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/tecno-phantom-v-flip2-5g-.jpg",
+        "description": "Tecno Phantom V Flip2 Android smartphone. Announced Sep 2024. Features 6.9″  display, Dimensity 8020 chipset, 4720 mAh battery, 256 GB storage, 8 GB RAM."
+      },
+      {
+        "brand_id": 120,
+        "brand_name": "Tecno",
+        "id": "tecno_pova_6_neo_5g-13326",
+        "phone_name": "Pova 6 Neo 5G",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pova-6-neo-5g.jpg",
+        "description": "Tecno Pova 6 Neo 5G Android smartphone. Announced Sep 2024. Features 6.67″  display, Dimensity 6300 chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM."
+      },
+      {
+        "brand_id": 120,
+        "brand_name": "Tecno",
+        "id": "tecno_spark_30c-13310",
+        "phone_name": "Spark 30C",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-30c.jpg",
+        "description": "Tecno Spark 30C Android smartphone. Announced Sep 2024. Features 6.67″  display, Helio G81 chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM."
+      },
+      {
+        "brand_id": 120,
+        "brand_name": "Tecno",
+        "id": "tecno_spark_go_1-13274",
+        "phone_name": "Spark Go 1",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-go1.jpg",
+        "description": "Tecno Spark Go 1 Android smartphone. Announced Aug 2024. Features 6.67″  display, Unisoc T615 chipset, 5000 mAh battery, 128 GB storage, 4 GB RAM."
+      },
+      {
+        "brand_id": 120,
+        "brand_name": "Tecno",
+        "id": "tecno_camon_30s_pro-13242",
+        "phone_name": "Camon 30S Pro",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon-30s-pro.jpg",
+        "description": "Tecno Camon 30S Pro Android smartphone. Announced Jul 2024. Features 6.78″  display, Helio G100 chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM."
+      },
+      {
+        "brand_id": 120,
+        "brand_name": "Tecno",
+        "id": "tecno_spark_20p-13125",
+        "phone_name": "Spark 20P",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-20p-r.jpg",
+        "description": "Tecno Spark 20P Android smartphone. Announced Jun 2024. Features 6.6″  display, Mediatek chipset, 5000 mAh battery, 256 GB storage, 4 GB RAM."
+      },
+      {
+        "brand_id": 120,
+        "brand_name": "Tecno",
+        "id": "tecno_spark_20_pro_5g-13124",
+        "phone_name": "Spark 20 Pro 5G",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-20-pro-5g.jpg",
+        "description": "Tecno Spark 20 Pro 5G Android smartphone. Announced Jun 2024. Features 6.78″  display, Dimensity 6080 chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM."
+      },
+      {
+        "brand_id": 120,
+        "brand_name": "Tecno",
+        "id": "tecno_pova_6_neo-12911",
+        "phone_name": "Pova 6 Neo",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pova-6-neo.jpg",
+        "description": "Tecno Pova 6 Neo Android smartphone. Announced Apr 2024. Features 6.78″  display, Helio G99 Ultimate chipset, 7000 mAh battery, 256 GB storage, 8 GB RAM."
+      },
+      {
+        "brand_id": 120,
+        "brand_name": "Tecno",
+        "id": "tecno_pova_6-12910",
+        "phone_name": "Pova 6",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pova-6.jpg",
+        "description": "Tecno Pova 6 Android smartphone. Announced Apr 2024. Features 6.78″  display, Helio G99 Ultimate chipset, 6000 mAh battery, 256 GB storage, 12 GB RAM."
+      },
+      {
+        "brand_id": 120,
+        "brand_name": "Tecno",
+        "id": "tecno_camon_30_premier-12845",
+        "phone_name": "Camon 30 Premier",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon-30-premier-5g.jpg",
+        "description": "Tecno Camon 30 Premier Android smartphone. Announced Feb 2024. Features 6.77″  display, Dimensity 8200 Ultimate chipset, 5000 mAh battery, 512 GB storage, 12 GB RAM, Corning Gorilla Glass 5."
+      },
+      {
+        "brand_id": 120,
+        "brand_name": "Tecno",
+        "id": "tecno_camon_30_pro-12846",
+        "phone_name": "Camon 30 Pro",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon-30-pro-new.jpg",
+        "description": "Tecno Camon 30 Pro Android smartphone. Announced Feb 2024. Features 6.78″  display, Dimensity 8200 Ultimate chipset, 5000 mAh battery, 512 GB storage, 12 GB RAM."
+      },
+      {
+        "brand_id": 120,
+        "brand_name": "Tecno",
+        "id": "tecno_camon_30_5g-12847",
+        "phone_name": "Camon 30 5G",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon-30-5g.jpg",
+        "description": "Tecno Camon 30 5G Android smartphone. Announced Feb 2024. Features 6.78″  display, Dimensity 7020 chipset, 5000 mAh battery, 512 GB storage, 12 GB RAM."
+      },
+      {
+        "brand_id": 120,
+        "brand_name": "Tecno",
+        "id": "tecno_camon_30-12848",
+        "phone_name": "Camon 30",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon30.jpg",
+        "description": "Tecno Camon 30 Android smartphone. Announced Feb 2024. Features 6.78″  display, Helio G99 Ultimate chipset, 5000 mAh battery, 256 GB storage, 12 GB RAM."
+      },
+      {
+        "brand_id": 120,
+        "brand_name": "Tecno",
+        "id": "tecno_pova_6_pro-12830",
+        "phone_name": "Pova 6 Pro",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pova-6-pro-11.jpg",
+        "description": "Tecno Pova 6 Pro Android smartphone. Announced Feb 2024. Features 6.78″  display, Dimensity 6080 chipset, 6000 mAh battery, 256 GB storage, 12 GB RAM."
+      },
+      {
+        "brand_id": 120,
+        "brand_name": "Tecno",
+        "id": "tecno_spark_20_pro+-12770",
+        "phone_name": "Spark 20 Pro+",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-20-pro-plus.jpg",
+        "description": "Tecno Spark 20 Pro+ Android smartphone. Announced Dec 2023. Features 6.78″  display, Helio G99 Ultimate chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 5."
+      },
+      {
+        "brand_id": 120,
+        "brand_name": "Tecno",
+        "id": "tecno_spark_20_pro-12747",
+        "phone_name": "Spark 20 Pro",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-20-pro.jpg",
+        "description": "Tecno Spark 20 Pro Android smartphone. Announced Dec 2023. Features 6.78″  display, Helio G99 chipset, 5000 mAh battery, 256 GB storage, 12 GB RAM."
+      },
+      {
+        "brand_id": 120,
+        "brand_name": "Tecno",
+        "id": "tecno_spark_20-12722",
+        "phone_name": "Spark 20",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-20.jpg",
+        "description": "Tecno Spark 20 Android smartphone. Announced Dec 2023. Features 6.6″  display, MT6769Z Helio G85 chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM."
+      },
+      {
+        "brand_id": 120,
+        "brand_name": "Tecno",
+        "id": "tecno_spark_20c-12710",
+        "phone_name": "Spark 20C",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-20c.jpg",
+        "description": "Tecno Spark 20C Android smartphone. Announced Nov 2023. Features 6.6″  display, Mediatek chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM."
+      },
+      {
+        "brand_id": 120,
+        "brand_name": "Tecno",
+        "id": "tecno_spark_go_2024-12702",
+        "phone_name": "Spark Go 2024",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-go-2024.jpg",
+        "description": "Tecno Spark Go 2024 Android smartphone. Announced Nov 2023. Features 6.6″  display, Unisoc T606 chipset, 5000 mAh battery, 128 GB storage, 4 GB RAM."
+      },
+      {
+        "brand_id": 120,
+        "brand_name": "Tecno",
+        "id": "tecno_pop_8-12644",
+        "phone_name": "Pop 8",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pop8.jpg",
+        "description": "Tecno Pop 8 Android smartphone. Announced Oct 2023. Features 6.6″  display, Unisoc T606 chipset, 5000 mAh battery, 128 GB storage, 4 GB RAM."
+      },
+      {
+        "brand_id": 120,
+        "brand_name": "Tecno",
+        "id": "tecno_camon_20s_pro_5g-12933",
+        "phone_name": "Camon 20s Pro 5G",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon20-pro-5g.jpg",
+        "description": "Tecno Camon 20s Pro 5G Android smartphone. Announced Nov 2023. Features 6.67″  display, Dimensity 8020 chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM."
+      },
+      {
+        "brand_id": 120,
+        "brand_name": "Tecno",
+        "id": "tecno_phantom_v_flip-12580",
+        "phone_name": "Phantom V Flip",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/tecno-phantom-v-flip-5g-new.jpg",
+        "description": "Tecno Phantom V Flip Android smartphone. Announced Sep 2023. Features 6.9″  display, Dimensity 8050 chipset, 4000 mAh battery, 256 GB storage, 8 GB RAM."
+      },
+      {
+        "brand_id": 120,
+        "brand_name": "Tecno",
+        "id": "tecno_pova_5_pro-12448",
+        "phone_name": "Pova 5 Pro",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pova-5-pro.jpg",
+        "description": "Tecno Pova 5 Pro Android smartphone. Announced Aug 2023. Features 6.78″  display, Dimensity 6080 chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM."
+      },
+      {
+        "brand_id": 120,
+        "brand_name": "Tecno",
+        "id": "tecno_pova_neo_3-12394",
+        "phone_name": "Pova Neo 3",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pova-neo-3.jpg",
+        "description": "Tecno Pova Neo 3 Android smartphone. Announced Jun 2023. Features 6.82″  display, MT6769Z Helio G85 chipset, 7000 mAh battery, 128 GB storage, 8 GB RAM."
+      },
+      {
+        "brand_id": 120,
+        "brand_name": "Tecno",
+        "id": "tecno_pova_5-12393",
+        "phone_name": "Pova 5",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pova-5.jpg",
+        "description": "Tecno Pova 5 Android smartphone. Announced Jun 2023. Features 6.78″  display, Helio G99 chipset, 6000 mAh battery, 256 GB storage, 8 GB RAM."
+      },
+      {
+        "brand_id": 120,
+        "brand_name": "Tecno",
+        "id": "tecno_camon_20_premier-12256",
+        "phone_name": "Camon 20 Premier",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon20-premier-5g.jpg",
+        "description": "Tecno Camon 20 Premier Android smartphone. Announced May 2023. Features 6.67″  display, Dimensity 8050 chipset, 5000 mAh battery, 512 GB storage, 8 GB RAM."
+      }
+    ],
+    "total_pages": 0,
+    "current_page": 0
+  },
+  "Samsung": {
+    "data": [
+      {
+        "brand_id": 9,
+        "brand_name": "Samsung",
+        "id": "samsung_galaxy_f36-14009",
+        "phone_name": "Galaxy F36",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-f36-1.jpg",
+        "description": "Samsung Galaxy F36 5G Android smartphone. Announced Jul 2025. Features 6.7″  display, Exynos 1380 chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass Victus+."
+      },
+      {
+        "brand_id": 9,
+        "brand_name": "Samsung",
+        "id": "samsung_galaxy_z_fold7-13826",
+        "phone_name": "Galaxy Z Fold7",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-z-fold7.jpg",
+        "description": "Samsung Galaxy Z Fold7 Android smartphone. Announced Jul 2025. Features 8.0″  display, Snapdragon 8 Elite chipset, 4400 mAh battery, 1024 GB storage, 16 GB RAM."
+      },
+      {
+        "brand_id": 9,
+        "brand_name": "Samsung",
+        "id": "samsung_galaxy_z_flip7-13712",
+        "phone_name": "Galaxy Z Flip7",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-z-flip7.jpg",
+        "description": "Samsung Galaxy Z Flip7 Android smartphone. Announced Jul 2025. Features 6.9″  display, Exynos 2500 chipset, 4300 mAh battery, 512 GB storage, 12 GB RAM."
+      },
+      {
+        "brand_id": 9,
+        "brand_name": "Samsung",
+        "id": "samsung_galaxy_z_flip7_fe-13844",
+        "phone_name": "Galaxy Z Flip7 FE",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-z-flip7-fe-.jpg",
+        "description": "Samsung Galaxy Z Flip7 FE 5G Android smartphone. Announced Jul 2025. Features 6.7″  display, Exynos 2400 chipset, 4000 mAh battery, 256 GB storage, 8 GB RAM."
+      },
+      {
+        "brand_id": 9,
+        "brand_name": "Samsung",
+        "id": "samsung_galaxy_watch8_classic-13998",
+        "phone_name": "Galaxy Watch8 Classic",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-watch8-classic.jpg",
+        "description": "Samsung Galaxy Watch8 Classic Android watch. Announced Jul 2025. Features 1.34″  display, Exynos W1000 chipset, 445 mAh battery, 64 GB storage, 2 GB RAM, MIL-STD-810H compliant, Sapphire crystal."
+      },
+      {
+        "brand_id": 9,
+        "brand_name": "Samsung",
+        "id": "samsung_galaxy_watch8-13997",
+        "phone_name": "Galaxy Watch8",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-watch8.jpg",
+        "description": "Samsung Galaxy Watch8 Android watch. Announced Jul 2025. Features 1.47″  display, Exynos W1000 chipset, 435 mAh battery, 32 GB storage, 2 GB RAM, MIL-STD-810H compliant, Sapphire crystal."
+      },
+      {
+        "brand_id": 9,
+        "brand_name": "Samsung",
+        "id": "samsung_galaxy_m36-13967",
+        "phone_name": "Galaxy M36",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-m36.jpg",
+        "description": "Samsung Galaxy M36 5G Android smartphone. Announced Jun 2025. Features 6.7″  display, Exynos 1380 chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass Victus+."
+      },
+      {
+        "brand_id": 9,
+        "brand_name": "Samsung",
+        "id": "samsung_galaxy_s25_edge-13506",
+        "phone_name": "Galaxy S25 Edge",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s25-edge.jpg",
+        "description": "Samsung Galaxy S25 Edge Android smartphone. Announced May 2025. Features 6.7″  display, Snapdragon 8 Elite chipset, 3900 mAh battery, 512 GB storage, 12 GB RAM, Corning Gorilla Glass Ceramic 2."
+      },
+      {
+        "brand_id": 9,
+        "brand_name": "Samsung",
+        "id": "samsung_galaxy_f56-13855",
+        "phone_name": "Galaxy F56",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-f56-5g.jpg",
+        "description": "Samsung Galaxy F56 5G Android smartphone. Announced May 2025. Features 6.74″  display, Exynos 1480 chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass Victus+."
+      },
+      {
+        "brand_id": 9,
+        "brand_name": "Samsung",
+        "id": "samsung_galaxy_m56-13801",
+        "phone_name": "Galaxy M56",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-m56-5g.jpg",
+        "description": "Samsung Galaxy M56 5G Android smartphone. Announced Apr 2025. Features 6.74″  display, Exynos 1480 chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass Victus+."
+      },
+      {
+        "brand_id": 9,
+        "brand_name": "Samsung",
+        "id": "samsung_galaxy_xcover7_pro-13780",
+        "phone_name": "Galaxy XCover7 Pro",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-xcover7-pro-1.jpg",
+        "description": "Samsung Galaxy XCover7 Pro Android smartphone. Announced Apr 2025. Features 6.6″  display, Snapdragon 7s Gen 3 chipset, 4350 mAh battery, 128 GB storage, 6 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass Victus+."
+      },
+      {
+        "brand_id": 9,
+        "brand_name": "Samsung",
+        "id": "samsung_galaxy_tab_active5_pro-13790",
+        "phone_name": "Galaxy Tab Active5 Pro",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-tab-active5-pro.jpg",
+        "description": "Samsung Galaxy Tab Active5 Pro Android tablet. Announced Apr 2025. Features 10.1″  display, Snapdragon 7s Gen 3 chipset, 10100 mAh battery, 256 GB storage, 8 GB RAM, MIL-STD-810H compliant, Corning Gorilla Glass Victus+."
+      },
+      {
+        "brand_id": 9,
+        "brand_name": "Samsung",
+        "id": "samsung_galaxy_tab_s10_fe+-13760",
+        "phone_name": "Galaxy Tab S10 FE+",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-tab-s10-fe-plus.jpg",
+        "description": "Samsung Galaxy Tab S10 FE+ Android tablet. Announced Apr 2025. Features 13.1″  display, Exynos 1580 chipset, 10090 mAh battery, 256 GB storage, 12 GB RAM."
+      },
+      {
+        "brand_id": 9,
+        "brand_name": "Samsung",
+        "id": "samsung_galaxy_tab_s10_fe-13761",
+        "phone_name": "Galaxy Tab S10 FE",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-tab-s10-fe.jpg",
+        "description": "Samsung Galaxy Tab S10 FE Android tablet. Announced Apr 2025. Features 10.9″  display, Exynos 1580 chipset, 8000 mAh battery, 256 GB storage, 12 GB RAM."
+      },
+      {
+        "brand_id": 9,
+        "brand_name": "Samsung",
+        "id": "samsung_galaxy_f16-13721",
+        "phone_name": "Galaxy F16",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-f16-5g.jpg",
+        "description": "Samsung Galaxy F16 Android smartphone. Announced Mar 2025. Features 6.7″  display, Dimensity 6300 chipset, 5000 mAh battery, 128 GB storage, 8 GB RAM."
+      },
+      {
+        "brand_id": 9,
+        "brand_name": "Samsung",
+        "id": "samsung_galaxy_a56-13603",
+        "phone_name": "Galaxy A56",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a56-.jpg",
+        "description": "Samsung Galaxy A56 Android smartphone. Announced Mar 2025. Features 6.7″  display, Exynos 1580 chipset, 5000 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass Victus+."
+      },
+      {
+        "brand_id": 9,
+        "brand_name": "Samsung",
+        "id": "samsung_galaxy_a36-13497",
+        "phone_name": "Galaxy A36",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a36.jpg",
+        "description": "Samsung Galaxy A36 Android smartphone. Announced Mar 2025. Features 6.7″  display, Snapdragon 6 Gen 3 chipset, 5000 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass Victus+."
+      },
+      {
+        "brand_id": 9,
+        "brand_name": "Samsung",
+        "id": "samsung_galaxy_a26-13679",
+        "phone_name": "Galaxy A26",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a26.jpg",
+        "description": "Samsung Galaxy A26 Android smartphone. Announced Mar 2025. Features 6.7″  display, Exynos 1380 chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass Victus+."
+      },
+      {
+        "brand_id": 9,
+        "brand_name": "Samsung",
+        "id": "samsung_galaxy_m16-13680",
+        "phone_name": "Galaxy M16",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-m16-5g-.jpg",
+        "description": "Samsung Galaxy M16 Android smartphone. Announced Feb 2025. Features 6.7″  display, Dimensity 6300 chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM."
+      },
+      {
+        "brand_id": 9,
+        "brand_name": "Samsung",
+        "id": "samsung_galaxy_m06-13681",
+        "phone_name": "Galaxy M06",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-m06-5g.jpg",
+        "description": "Samsung Galaxy M06 Android smartphone. Announced Feb 2025. Features 6.74″  display, Dimensity 6300 chipset, 5000 mAh battery, 128 GB storage, 6 GB RAM."
+      },
+      {
+        "brand_id": 9,
+        "brand_name": "Samsung",
+        "id": "samsung_galaxy_a06_5g-13662",
+        "phone_name": "Galaxy A06 5G",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a06-5g.jpg",
+        "description": "Samsung Galaxy A06 5G Android smartphone. Announced Feb 2025. Features 6.7″  display, Dimensity 6300 chipset, 5000 mAh battery, 128 GB storage, 6 GB RAM."
+      },
+      {
+        "brand_id": 9,
+        "brand_name": "Samsung",
+        "id": "samsung_galaxy_f06_5g-13663",
+        "phone_name": "Galaxy F06 5G",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-f06-5g.jpg",
+        "description": "Samsung Galaxy F06 5G Android smartphone. Announced Feb 2025. Features 6.7″  display, Dimensity 6300 chipset, 5000 mAh battery, 128 GB storage, 6 GB RAM."
+      },
+      {
+        "brand_id": 9,
+        "brand_name": "Samsung",
+        "id": "samsung_galaxy_s25_ultra-13322",
+        "phone_name": "Galaxy S25 Ultra",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s25-ultra-sm-s938.jpg",
+        "description": "Samsung Galaxy S25 Ultra Android smartphone. Announced Jan 2025. Features 6.9″  display, Snapdragon 8 Elite chipset, 5000 mAh battery, 1024 GB storage, 16 GB RAM, Corning Gorilla Armor 2."
+      },
+      {
+        "brand_id": 9,
+        "brand_name": "Samsung",
+        "id": "samsung_galaxy_s25+-13609",
+        "phone_name": "Galaxy S25+",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s25-plus-sm-s936.jpg",
+        "description": "Samsung Galaxy S25+ Android smartphone. Announced Jan 2025. Features 6.7″  display, Snapdragon 8 Elite chipset, 4900 mAh battery, 512 GB storage, 12 GB RAM, Corning Gorilla Glass Victus 2."
+      },
+      {
+        "brand_id": 9,
+        "brand_name": "Samsung",
+        "id": "samsung_galaxy_s25-13610",
+        "phone_name": "Galaxy S25",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s25-sm-s931.jpg",
+        "description": "Samsung Galaxy S25 Android smartphone. Announced Jan 2025. Features 6.2″  display, Snapdragon 8 Elite chipset, 4000 mAh battery, 512 GB storage, 12 GB RAM, Corning Gorilla Glass Victus 2."
+      },
+      {
+        "brand_id": 9,
+        "brand_name": "Samsung",
+        "id": "samsung_galaxy_z_fold_special-13452",
+        "phone_name": "Galaxy Z Fold Special",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-z-fold-special-edition.jpg",
+        "description": "Samsung Galaxy Z Fold Special Android smartphone. Announced Oct 2024. Features 8.0″  display, Snapdragon 8 Gen 3 chipset, 4400 mAh battery, 512 GB storage, 16 GB RAM."
+      },
+      {
+        "brand_id": 9,
+        "brand_name": "Samsung",
+        "id": "samsung_galaxy_a16-13383",
+        "phone_name": "Galaxy A16",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a16-lte.jpg",
+        "description": "Samsung Galaxy A16 Android smartphone. Announced Oct 2024. Features 6.7″  display, Helio G99 chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM."
+      },
+      {
+        "brand_id": 9,
+        "brand_name": "Samsung",
+        "id": "samsung_galaxy_a16_5g-13346",
+        "phone_name": "Galaxy A16 5G",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a16-5g.jpg",
+        "description": "Samsung Galaxy A16 5G Android smartphone. Announced Oct 2024. Features 6.7″  display, Exynos 1330 or Dimensity 6300 chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM."
+      },
+      {
+        "brand_id": 9,
+        "brand_name": "Samsung",
+        "id": "samsung_galaxy_s24_fe-13262",
+        "phone_name": "Galaxy S24 FE",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s24-fe-r1.jpg",
+        "description": "Samsung Galaxy S24 FE Android smartphone. Announced Sep 2024. Features 6.7″  display, Exynos 2400e chipset, 4700 mAh battery, 512 GB storage, 8 GB RAM, Corning Gorilla Glass Victus+."
+      },
+      {
+        "brand_id": 9,
+        "brand_name": "Samsung",
+        "id": "samsung_galaxy_tab_s10_ultra-13362",
+        "phone_name": "Galaxy Tab S10 Ultra",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-tab-s10-ultra.jpg",
+        "description": "Samsung Galaxy Tab S10 Ultra Android tablet. Announced Sep 2024. Features 14.6″  display, Dimensity 9300+ chipset, 11200 mAh battery, 1024 GB storage, 16 GB RAM."
+      },
+      {
+        "brand_id": 9,
+        "brand_name": "Samsung",
+        "id": "samsung_galaxy_tab_s10+-13363",
+        "phone_name": "Galaxy Tab S10+",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-tab-s10-plus.jpg",
+        "description": "Samsung Galaxy Tab S10+ Android tablet. Announced Sep 2024. Features 12.4″  display, Dimensity 9300+ chipset, 10090 mAh battery, 512 GB storage, 12 GB RAM."
+      },
+      {
+        "brand_id": 9,
+        "brand_name": "Samsung",
+        "id": "samsung_galaxy_m55s-13354",
+        "phone_name": "Galaxy M55s",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-m55s.jpg",
+        "description": "Samsung Galaxy M55s Android smartphone. Announced Sep 2024. Features 6.7″  display, Snapdragon 7 Gen 1 chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM."
+      },
+      {
+        "brand_id": 9,
+        "brand_name": "Samsung",
+        "id": "samsung_galaxy_f05-13345",
+        "phone_name": "Galaxy F05",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-f05.jpg",
+        "description": "Samsung Galaxy F05 Android smartphone. Announced Sep 2024. Features 6.7″  display, Helio G85 chipset, 5000 mAh battery, 64 GB storage, 4 GB RAM."
+      },
+      {
+        "brand_id": 9,
+        "brand_name": "Samsung",
+        "id": "samsung_galaxy_m05-13327",
+        "phone_name": "Galaxy M05",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-m05.jpg",
+        "description": "Samsung Galaxy M05 Android smartphone. Announced Sep 2024. Features 6.7″  display, Helio G85 chipset, 5000 mAh battery, 64 GB storage, 4 GB RAM."
+      },
+      {
+        "brand_id": 9,
+        "brand_name": "Samsung",
+        "id": "samsung_galaxy_a06-13265",
+        "phone_name": "Galaxy A06",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a06-1.jpg",
+        "description": "Samsung Galaxy A06 Android smartphone. Announced Aug 2024. Features 6.7″  display, Helio G85 chipset, 5000 mAh battery, 128 GB storage, 6 GB RAM."
+      },
+      {
+        "brand_id": 9,
+        "brand_name": "Samsung",
+        "id": "samsung_galaxy_f14_4g-13247",
+        "phone_name": "Galaxy F14 4G",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-f14-4g.jpg",
+        "description": "Samsung Galaxy F14 4G Android smartphone. Announced Aug 2024. Features 6.7″  display, Snapdragon 680 4G chipset, 5000 mAh battery, 64 GB storage, 4 GB RAM."
+      },
+      {
+        "brand_id": 9,
+        "brand_name": "Samsung",
+        "id": "samsung_galaxy_z_fold6-13147",
+        "phone_name": "Galaxy Z Fold6",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-z-fold6.jpg",
+        "description": "Samsung Galaxy Z Fold6 Android smartphone. Announced Jul 2024. Features 7.6″  display, Snapdragon 8 Gen 3 chipset, 4400 mAh battery, 1024 GB storage, 12 GB RAM."
+      },
+      {
+        "brand_id": 9,
+        "brand_name": "Samsung",
+        "id": "samsung_galaxy_z_flip6-13192",
+        "phone_name": "Galaxy Z Flip6",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-z-flip6.jpg",
+        "description": "Samsung Galaxy Z Flip6 Android smartphone. Announced Jul 2024. Features 6.7″  display, Snapdragon 8 Gen 3 chipset, 4000 mAh battery, 512 GB storage, 12 GB RAM."
+      },
+      {
+        "brand_id": 9,
+        "brand_name": "Samsung",
+        "id": "samsung_galaxy_watch_ultra-13127",
+        "phone_name": "Galaxy Watch Ultra",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-watch-ultra.jpg",
+        "description": "Samsung Galaxy Watch Ultra Android watch. Announced Jul 2024. Features 1.5″  display, Exynos W1000 chipset, 590 mAh battery, 64 GB storage, 2 GB RAM, MIL-STD-810H compliant, Sapphire crystal glass."
+      },
+      {
+        "brand_id": 9,
+        "brand_name": "Samsung",
+        "id": "samsung_galaxy_watch7-13128",
+        "phone_name": "Galaxy Watch7",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-watch7.jpg",
+        "description": "Samsung Galaxy Watch7 Android watch. Announced Jul 2024. Features 1.5″  display, Exynos W1000 chipset, 425 mAh battery, 32 GB storage, 2 GB RAM, MIL-STD-810H compliant, Sapphire crystal."
+      },
+      {
+        "brand_id": 9,
+        "brand_name": "Samsung",
+        "id": "samsung_galaxy_watch_fe-13112",
+        "phone_name": "Galaxy Watch FE",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-watch-fe-r.jpg",
+        "description": "Samsung Galaxy Watch FE Android watch. Announced Jun 2024. Features 1.2″  display, Exynos W920 chipset, 247 mAh battery, 16 GB storage, 1.5 GB RAM, MIL-STD-810H compliant, Sapphire crystal glass."
+      },
+      {
+        "brand_id": 9,
+        "brand_name": "Samsung",
+        "id": "samsung_galaxy_m35-13006",
+        "phone_name": "Galaxy M35",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-m35-.jpg",
+        "description": "Samsung Galaxy M35 Android smartphone. Announced May 2024. Features 6.6″  display, Exynos 1380 chipset, 6000 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass Victus+."
+      },
+      {
+        "brand_id": 9,
+        "brand_name": "Samsung",
+        "id": "samsung_galaxy_f55-12885",
+        "phone_name": "Galaxy F55",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-f55.jpg",
+        "description": "Samsung Galaxy F55 Android smartphone. Announced May 2024. Features 6.7″  display, Snapdragon 7 Gen 1 chipset, 5000 mAh battery, 256 GB storage, 12 GB RAM."
+      },
+      {
+        "brand_id": 9,
+        "brand_name": "Samsung",
+        "id": "samsung_galaxy_c55-12945",
+        "phone_name": "Galaxy C55",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-c55.jpg",
+        "description": "Samsung Galaxy C55 Android smartphone. Announced Apr 2024. Features 6.7″  display, Snapdragon 7 Gen 1 chipset, 5000 mAh battery, 256 GB storage, 12 GB RAM."
+      },
+      {
+        "brand_id": 9,
+        "brand_name": "Samsung",
+        "id": "samsung_galaxy_m55-12896",
+        "phone_name": "Galaxy M55",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-m55.jpg",
+        "description": "Samsung Galaxy M55 Android smartphone. Announced Mar 2024. Features 6.7″  display, Snapdragon 7 Gen 1 chipset, 5000 mAh battery, 256 GB storage, 12 GB RAM."
+      },
+      {
+        "brand_id": 9,
+        "brand_name": "Samsung",
+        "id": "samsung_galaxy_tab_s6_lite_(2024)-12897",
+        "phone_name": "Galaxy Tab S6 Lite (2024)",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-tab-s6-lite-2024.jpg",
+        "description": "Samsung Galaxy Tab S6 Lite (2024) Android tablet. Announced Mar 2024. Features 10.4″  display, Exynos 1280 chipset, 7040 mAh battery, 128 GB storage, 4 GB RAM."
+      },
+      {
+        "brand_id": 9,
+        "brand_name": "Samsung",
+        "id": "samsung_galaxy_a55-12824",
+        "phone_name": "Galaxy A55",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a55.jpg",
+        "description": "Samsung Galaxy A55 Android smartphone. Announced Mar 2024. Features 6.6″  display, Exynos 1480 chipset, 5000 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass Victus+."
+      },
+      {
+        "brand_id": 9,
+        "brand_name": "Samsung",
+        "id": "samsung_galaxy_a35-12705",
+        "phone_name": "Galaxy A35",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a35.jpg",
+        "description": "Samsung Galaxy A35 Android smartphone. Announced Mar 2024. Features 6.6″  display, Exynos 1380 chipset, 5000 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass Victus+."
+      },
+      {
+        "brand_id": 9,
+        "brand_name": "Samsung",
+        "id": "samsung_galaxy_m15-12833",
+        "phone_name": "Galaxy M15",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-m15.jpg",
+        "description": "Samsung Galaxy M15 Android smartphone. Announced Mar 2024. Features 6.5″  display, Dimensity 6100+ chipset, 6000 mAh battery, 256 GB storage, 8 GB RAM."
+      },
+      {
+        "brand_id": 9,
+        "brand_name": "Samsung",
+        "id": "samsung_galaxy_m14_4g-12862",
+        "phone_name": "Galaxy M14 4G",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-m14-4g.jpg",
+        "description": "Samsung Galaxy M14 4G Android smartphone. Announced Mar 2024. Features 6.7″  display, Snapdragon 680 4G chipset, 5000 mAh battery, 128 GB storage, 6 GB RAM."
+      }
+    ],
+    "total_pages": 0,
+    "current_page": 0
+  },
+  "Xiaomi": {
+    "data": [
+      {
+        "brand_id": 80,
+        "brand_name": "Xiaomi",
+        "id": "xiaomi_redmi_k80_ultra-13965",
+        "phone_name": "Redmi K80 Ultra",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k80-ultra.jpg",
+        "description": "Xiaomi Redmi K80 Ultra 5G Android smartphone. Announced Jun 2025. Features 6.83″  display, Dimensity 9400+ chipset, 7410 mAh battery, 1024 GB storage, 16 GB RAM, Scratch/drop-resistant glass."
+      },
+      {
+        "brand_id": 80,
+        "brand_name": "Xiaomi",
+        "id": "xiaomi_mix_flip_2-13980",
+        "phone_name": "Mix Flip 2",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mix-flip2.jpg",
+        "description": "Xiaomi Mix Flip 2 5G Android smartphone. Announced Jun 2025. Features 6.86″  display, Snapdragon 8 Elite chipset, 5165 mAh battery, 1024 GB storage, 16 GB RAM."
+      },
+      {
+        "brand_id": 80,
+        "brand_name": "Xiaomi",
+        "id": "xiaomi_watch_s4_41mm-13981",
+        "phone_name": "Watch S4 41mm",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-watch-s4-41mm.jpg",
+        "description": "Xiaomi Watch S4 41mm watch. Announced Jun 2025. Features 1.32″  display, 320 mAh battery, Scratch/drop-proof glass."
+      },
+      {
+        "brand_id": 80,
+        "brand_name": "Xiaomi",
+        "id": "xiaomi_pad_7s_pro_12.5-13968",
+        "phone_name": "Pad 7S Pro 12.5",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-pad-7s-pro-125.jpg",
+        "description": "Xiaomi Pad 7S Pro 12.5 Android tablet. Announced Jun 2025. Features 12.5″  display, Xring O1 chipset, 10610 mAh battery, 1024 GB storage, 16 GB RAM, Corning Gorilla Glass 5 or Panda-X."
+      },
+      {
+        "brand_id": 80,
+        "brand_name": "Xiaomi",
+        "id": "xiaomi_redmi_k_pad-13960",
+        "phone_name": "Redmi K Pad",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k-pad.jpg",
+        "description": "Xiaomi Redmi K Pad Android tablet. Announced Jun 2025. Features 8.8″  display, Dimensity 9400+ chipset, 7500 mAh battery, 1024 GB storage, 16 GB RAM."
+      },
+      {
+        "brand_id": 80,
+        "brand_name": "Xiaomi",
+        "id": "xiaomi_poco_f7-13951",
+        "phone_name": "Poco F7",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-f7-new.jpg",
+        "description": "Xiaomi Poco F7 5G Android smartphone. Announced Jun 2025. Features 6.83″  display, Snapdragon 8s Gen 4 chipset, 6500 mAh battery, 512 GB storage, 12 GB RAM, Corning Gorilla Glass 7i."
+      },
+      {
+        "brand_id": 80,
+        "brand_name": "Xiaomi",
+        "id": "xiaomi_redmi_pad_2-13908",
+        "phone_name": "Redmi Pad 2",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-pad-2.jpg",
+        "description": "Xiaomi Redmi Pad 2 Android tablet. Announced Jun 2025. Features 11.0″  display, Helio G100 Ultra chipset, 9000 mAh battery, 256 GB storage, 8 GB RAM."
+      },
+      {
+        "brand_id": 80,
+        "brand_name": "Xiaomi",
+        "id": "xiaomi_15s_pro-13895",
+        "phone_name": "15S Pro",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-15s-pro.jpg",
+        "description": "Xiaomi 15S Pro 5G Android smartphone. Announced May 2025. Features 6.73″  display, Xring O1 chipset, 6100 mAh battery, 1024 GB storage, 16 GB RAM, Shatterproof glass (2024 gen)."
+      },
+      {
+        "brand_id": 80,
+        "brand_name": "Xiaomi",
+        "id": "xiaomi_civi_5_pro-13875",
+        "phone_name": "Civi 5 Pro",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-civi-5-pro.jpg",
+        "description": "Xiaomi Civi 5 Pro 5G Android smartphone. Announced May 2025. Features 6.55″  display, Snapdragon 8s Gen 4 chipset, 6000 mAh battery, 512 GB storage, 16 GB RAM."
+      },
+      {
+        "brand_id": 80,
+        "brand_name": "Xiaomi",
+        "id": "xiaomi_pad_7_ultra-13896",
+        "phone_name": "Pad 7 Ultra",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-pad7-ultra.jpg",
+        "description": "Xiaomi Pad 7 Ultra Android tablet. Announced May 2025. Features 14.0″  display, Xring O1 chipset, 12000 mAh battery, 1024 GB storage, 16 GB RAM, Corning Gorilla Glass 5."
+      },
+      {
+        "brand_id": 80,
+        "brand_name": "Xiaomi",
+        "id": "xiaomi_redmi_turbo_4_pro-13617",
+        "phone_name": "Redmi Turbo 4 Pro",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-turbo-4-pro.jpg",
+        "description": "Xiaomi Redmi Turbo 4 Pro Android smartphone. Announced Apr 2025. Features 6.83″  display, Snapdragon 8s Gen 4 chipset, 7550 mAh battery, 1024 GB storage, 16 GB RAM."
+      },
+      {
+        "brand_id": 80,
+        "brand_name": "Xiaomi",
+        "id": "xiaomi_redmi_watch_move-13806",
+        "phone_name": "Redmi Watch Move",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-watch-move.jpg",
+        "description": "Xiaomi Redmi Watch Move watch. Announced Apr 2025. Features 1.85″  display, 300 mAh battery."
+      },
+      {
+        "brand_id": 80,
+        "brand_name": "Xiaomi",
+        "id": "xiaomi_poco_c71-13767",
+        "phone_name": "Poco C71",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-c71.jpg",
+        "description": "Xiaomi Poco C71 4G Android smartphone. Announced Apr 2025. Features 6.88″  display, Unisoc T7250 chipset, 5200 mAh battery, 128 GB storage, 6 GB RAM."
+      },
+      {
+        "brand_id": 80,
+        "brand_name": "Xiaomi",
+        "id": "xiaomi_poco_f7_ultra-13723",
+        "phone_name": "Poco F7 Ultra",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-f7-ultra.jpg",
+        "description": "Xiaomi Poco F7 Ultra Android smartphone. Announced Mar 2025. Features 6.67″  display, Snapdragon 8 Elite chipset, 5300 mAh battery, 512 GB storage, 16 GB RAM, Poco Shield Glass."
+      },
+      {
+        "brand_id": 80,
+        "brand_name": "Xiaomi",
+        "id": "xiaomi_poco_f7_pro-13724",
+        "phone_name": "Poco F7 Pro",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-f7-pro.jpg",
+        "description": "Xiaomi Poco F7 Pro Android smartphone. Announced Mar 2025. Features 6.67″  display, Snapdragon 8 Gen 3 chipset, 6000 mAh battery, 512 GB storage, 12 GB RAM, Corning Gorilla Glass 7i."
+      },
+      {
+        "brand_id": 80,
+        "brand_name": "Xiaomi",
+        "id": "xiaomi_redmi_13x-13764",
+        "phone_name": "Redmi 13x",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-13x-4g.jpg",
+        "description": "Xiaomi Redmi 13x 4G Android smartphone. Announced Mar 2025. Features 6.79″  display, Helio G91 Ultra chipset, 5030 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass."
+      },
+      {
+        "brand_id": 80,
+        "brand_name": "Xiaomi",
+        "id": "xiaomi_redmi_a5_4g-13737",
+        "phone_name": "Redmi A5 4G",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-a5-4g.jpg",
+        "description": "Xiaomi Redmi A5 4G Android smartphone. Announced Mar 2025. Features 6.88″  display, Unisoc T7250 chipset, 5200 mAh battery, 128 GB storage, 6 GB RAM."
+      },
+      {
+        "brand_id": 80,
+        "brand_name": "Xiaomi",
+        "id": "xiaomi_redmi_note_14s-13730",
+        "phone_name": "Redmi Note 14S",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-14s.jpg",
+        "description": "Xiaomi Redmi Note 14S Android smartphone. Announced Mar 2025. Features 6.67″  display, Helio G99 Ultra chipset, 5000 mAh battery, 512 GB storage, 12 GB RAM, Corning Gorilla Glass 5."
+      },
+      {
+        "brand_id": 80,
+        "brand_name": "Xiaomi",
+        "id": "xiaomi_15_ultra-13657",
+        "phone_name": "15 Ultra",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-15-ultra-.jpg",
+        "description": "Xiaomi 15 Ultra Android smartphone. Announced Feb 2025. Features 6.73″  display, Snapdragon 8 Elite chipset, 5410 mAh battery, 1024 GB storage, 16 GB RAM, Xiaomi Shield Glass 2.0."
+      },
+      {
+        "brand_id": 80,
+        "brand_name": "Xiaomi",
+        "id": "xiaomi_15-13472",
+        "phone_name": "15",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-15.jpg",
+        "description": "Xiaomi 15 Android smartphone. Announced Oct 2024. Features 6.36″  display, Snapdragon 8 Elite chipset, 5240 mAh battery, 1024 GB storage, 16 GB RAM, Xiaomi Shield Glass."
+      },
+      {
+        "brand_id": 80,
+        "brand_name": "Xiaomi",
+        "id": "xiaomi_black_shark_pad_6-13774",
+        "phone_name": "Black Shark Pad 6",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-black-shark-pad-6.jpg",
+        "description": "Xiaomi Black Shark Pad 6 4G Android tablet. Announced Nov 2024. Features 11.0″  display, Unisoc Tiger T616 chipset, 8800 mAh battery, 256 GB storage, 8 GB RAM."
+      },
+      {
+        "brand_id": 80,
+        "brand_name": "Xiaomi",
+        "id": "xiaomi_poco_m7-13678",
+        "phone_name": "Poco M7",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-m7-5g.jpg",
+        "description": "Xiaomi Poco M7 Android smartphone. Announced Mar 2025. Features 6.88″  display, Snapdragon 4 Gen 2 chipset, 5160 mAh battery, 128 GB storage, 8 GB RAM."
+      },
+      {
+        "brand_id": 80,
+        "brand_name": "Xiaomi",
+        "id": "xiaomi_redmi_note_14_pro+_5g-13612",
+        "phone_name": "Redmi Note 14 Pro+ 5G",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-14-pro-plus-5g-gl.jpg",
+        "description": "Xiaomi Redmi Note 14 Pro+ 5G (Global) Android smartphone. Announced Jan 2025. Features 6.67″  display, Snapdragon 7s Gen 3 chipset, 5110 mAh battery, 512 GB storage, 12 GB RAM, Corning Gorilla Glass Victus 2."
+      },
+      {
+        "brand_id": 80,
+        "brand_name": "Xiaomi",
+        "id": "xiaomi_redmi_note_14_pro_5g-13613",
+        "phone_name": "Redmi Note 14 Pro 5G",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-14-pro-5g-gl.jpg",
+        "description": "Xiaomi Redmi Note 14 Pro 5G (Global) Android smartphone. Announced Jan 2025. Features 6.67″  display, Dimensity 7300 Ultra chipset, 5110 mAh battery, 512 GB storage, 12 GB RAM, Corning Gorilla Glass Victus 2."
+      },
+      {
+        "brand_id": 80,
+        "brand_name": "Xiaomi",
+        "id": "xiaomi_redmi_note_14_pro_4g-13614",
+        "phone_name": "Redmi Note 14 Pro 4G",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-14-pro-4g-gl.jpg",
+        "description": "Xiaomi Redmi Note 14 Pro 4G (Global) Android smartphone. Announced Jan 2025. Features 6.67″  display, Helio G100 Ultra chipset, 5500 mAh battery, 512 GB storage, 12 GB RAM, Corning Gorilla Glass Victus 2."
+      },
+      {
+        "brand_id": 80,
+        "brand_name": "Xiaomi",
+        "id": "xiaomi_redmi_note_14_5g-13615",
+        "phone_name": "Redmi Note 14 5G",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-14-5g-gl.jpg",
+        "description": "Xiaomi Redmi Note 14 5G (Global) Android smartphone. Announced Jan 2025. Features 6.67″  display, Dimensity 7025 Ultra chipset, 5110 mAh battery, 512 GB storage, 12 GB RAM, Corning Gorilla Glass 5."
+      },
+      {
+        "brand_id": 80,
+        "brand_name": "Xiaomi",
+        "id": "xiaomi_redmi_note_14_4g-13616",
+        "phone_name": "Redmi Note 14 4G",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-14-4g-gl.jpg",
+        "description": "Xiaomi Redmi Note 14 4G (Global) Android smartphone. Announced Jan 2025. Features 6.67″  display, Helio G99 Ultra chipset, 5500 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 5."
+      },
+      {
+        "brand_id": 80,
+        "brand_name": "Xiaomi",
+        "id": "xiaomi_poco_x7_pro-13582",
+        "phone_name": "Poco X7 Pro",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-x7-pro.jpg",
+        "description": "Xiaomi Poco X7 Pro Android smartphone. Announced Jan 2025. Features 6.67″  display, Dimensity 8400 Ultra chipset, 6000 mAh battery, 512 GB storage, 12 GB RAM, Corning Gorilla Glass 7i."
+      },
+      {
+        "brand_id": 80,
+        "brand_name": "Xiaomi",
+        "id": "xiaomi_poco_x7-13604",
+        "phone_name": "Poco X7",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-x7.jpg",
+        "description": "Xiaomi Poco X7 Android smartphone. Announced Jan 2025. Features 6.67″  display, Dimensity 7300 Ultra chipset, 5110 mAh battery, 512 GB storage, 12 GB RAM, Corning Gorilla Glass Victus 2."
+      },
+      {
+        "brand_id": 80,
+        "brand_name": "Xiaomi",
+        "id": "xiaomi_redmi_14c_5g-13595",
+        "phone_name": "Redmi 14C 5G",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-14c.jpg",
+        "description": "Xiaomi Redmi 14C 5G Android smartphone. Announced Jan 2025. Features 6.88″  display, Snapdragon 4 Gen 2 chipset, 5160 mAh battery, 256 GB storage, 6 GB RAM."
+      },
+      {
+        "brand_id": 80,
+        "brand_name": "Xiaomi",
+        "id": "xiaomi_redmi_14c_(china)-13627",
+        "phone_name": "Redmi 14C (China)",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-14c-cn.jpg",
+        "description": "Xiaomi Redmi 14C (China) Android smartphone. Announced Dec 2024. Features 6.88″  display, Helio G81 Ultra chipset, 5160 mAh battery, 256 GB storage, 8 GB RAM."
+      },
+      {
+        "brand_id": 80,
+        "brand_name": "Xiaomi",
+        "id": "xiaomi_redmi_turbo_4-13598",
+        "phone_name": "Redmi Turbo 4",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-turbo4.jpg",
+        "description": "Xiaomi Redmi Turbo 4 Android smartphone. Announced Jan 2025. Features 6.67″  display, Dimensity 8400 Ultra chipset, 6550 mAh battery, 512 GB storage, 16 GB RAM."
+      },
+      {
+        "brand_id": 80,
+        "brand_name": "Xiaomi",
+        "id": "xiaomi_poco_m7_pro_5g-13570",
+        "phone_name": "Poco M7 Pro 5G",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-m7-pro-5g-.jpg",
+        "description": "Xiaomi Poco M7 Pro 5G Android smartphone. Announced Dec 2024. Features 6.67″  display, Dimensity 7025 Ultra chipset, 5110 mAh battery, 512 GB storage, 12 GB RAM, Corning Gorilla Glass 5."
+      },
+      {
+        "brand_id": 80,
+        "brand_name": "Xiaomi",
+        "id": "xiaomi_poco_c75_5g-13571",
+        "phone_name": "Poco C75 5G",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-c75-5g-.jpg",
+        "description": "Xiaomi Poco C75 5G Android smartphone. Announced Dec 2024. Features 6.88″  display, Snapdragon 4s Gen 2 chipset, 5160 mAh battery, 128 GB storage, 4 GB RAM."
+      },
+      {
+        "brand_id": 80,
+        "brand_name": "Xiaomi",
+        "id": "xiaomi_redmi_note_14_5g_(india)-13559",
+        "phone_name": "Redmi Note 14 5G (India)",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-14-5g-in.jpg",
+        "description": "Xiaomi Redmi Note 14 Android smartphone. Announced Dec 2024. Features 6.67″  display, Dimensity 7025 Ultra chipset, 5110 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 5."
+      },
+      {
+        "brand_id": 80,
+        "brand_name": "Xiaomi",
+        "id": "xiaomi_redmi_note_14_pro_5g_(india)-13355",
+        "phone_name": "Redmi Note 14 Pro 5G (India)",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-14-pro-5g.jpg",
+        "description": "Xiaomi Redmi Note 14 Pro Android smartphone. Announced Sep 2024. Features 6.67″  display, Dimensity 7300 Ultra chipset, 5500 mAh battery, 512 GB storage, 12 GB RAM, Corning Gorilla Glass Victus 2."
+      },
+      {
+        "brand_id": 80,
+        "brand_name": "Xiaomi",
+        "id": "xiaomi_redmi_note_14_pro+_5g_(india)-13364",
+        "phone_name": "Redmi Note 14 Pro+ 5G (India)",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-14-pro-plus-5g.jpg",
+        "description": "Xiaomi Redmi Note 14 Pro+ Android smartphone. Announced Sep 2024. Features 6.67″  display, Snapdragon 7s Gen 3 chipset, 6200 mAh battery, 512 GB storage, 16 GB RAM, Corning Gorilla Glass Victus 2."
+      },
+      {
+        "brand_id": 80,
+        "brand_name": "Xiaomi",
+        "id": "xiaomi_redmi_k80_pro-13524",
+        "phone_name": "Redmi K80 Pro",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k80-pro-.jpg",
+        "description": "Xiaomi Redmi K80 Pro Android smartphone. Announced Nov 2024. Features 6.67″  display, Snapdragon 8 Elite chipset, 6000 mAh battery, 1024 GB storage, 16 GB RAM, Longjing glass 2."
+      },
+      {
+        "brand_id": 80,
+        "brand_name": "Xiaomi",
+        "id": "xiaomi_redmi_k80-13525",
+        "phone_name": "Redmi K80",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k80-.jpg",
+        "description": "Xiaomi Redmi K80 Android smartphone. Announced Nov 2024. Features 6.67″  display, Snapdragon 8 Gen 3 chipset, 6550 mAh battery, 1024 GB storage, 16 GB RAM, Corning Gorilla Glass 7i."
+      },
+      {
+        "brand_id": 80,
+        "brand_name": "Xiaomi",
+        "id": "xiaomi_pad_7_pro-13474",
+        "phone_name": "Pad 7 Pro",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-pad-7-pro.jpg",
+        "description": "Xiaomi Pad 7 Pro Android tablet. Announced Oct 2024. Features 11.2″  display, Snapdragon 8s Gen 3 chipset, 8850 mAh battery, 512 GB storage, 12 GB RAM."
+      },
+      {
+        "brand_id": 80,
+        "brand_name": "Xiaomi",
+        "id": "xiaomi_pad_7-13475",
+        "phone_name": "Pad 7",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-pad-7-pro.jpg",
+        "description": "Xiaomi Pad 7 Android tablet. Announced Oct 2024. Features 11.2″  display, Snapdragon 7+ Gen 3 chipset, 8850 mAh battery, 256 GB storage, 12 GB RAM."
+      },
+      {
+        "brand_id": 80,
+        "brand_name": "Xiaomi",
+        "id": "xiaomi_redmi_watch_5-13658",
+        "phone_name": "Redmi Watch 5",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-watch-5.jpg",
+        "description": "Xiaomi Redmi Watch 5 watch. Announced Nov 2024. Features 2.1″  display, 550 mAh battery, 164 MB storage."
+      },
+      {
+        "brand_id": 80,
+        "brand_name": "Xiaomi",
+        "id": "xiaomi_watch_s4-13476",
+        "phone_name": "Watch S4",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-watch-s4.jpg",
+        "description": "Xiaomi Watch S4 watch. Announced Oct 2024. Features 1.43″  display, 486 mAh battery, Scratch/drop-proof glass."
+      },
+      {
+        "brand_id": 80,
+        "brand_name": "Xiaomi",
+        "id": "xiaomi_15_pro-13473",
+        "phone_name": "15 Pro",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-15-pro.jpg",
+        "description": "Xiaomi 15 Pro Android smartphone. Announced Oct 2024. Features 6.73″  display, Snapdragon 8 Elite chipset, 6100 mAh battery, 1024 GB storage, 16 GB RAM, Shatterproof glass (2024 gen)."
+      },
+      {
+        "brand_id": 80,
+        "brand_name": "Xiaomi",
+        "id": "xiaomi_poco_c75-13435",
+        "phone_name": "Poco C75",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-c75-.jpg",
+        "description": "Xiaomi Poco C75 Android smartphone. Announced Oct 2024. Features 6.88″  display, Helio G81 Ultra chipset, 5160 mAh battery, 256 GB storage, 8 GB RAM."
+      },
+      {
+        "brand_id": 80,
+        "brand_name": "Xiaomi",
+        "id": "xiaomi_redmi_a4-13444",
+        "phone_name": "Redmi A4",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-a4-5g-.jpg",
+        "description": "Xiaomi Redmi A4 Android smartphone. Announced Oct 2024. Features 6.88″  display, Snapdragon 4s Gen 2 chipset, 5160 mAh battery, 128 GB storage, 6 GB RAM."
+      },
+      {
+        "brand_id": 80,
+        "brand_name": "Xiaomi",
+        "id": "xiaomi_redmi_a3_pro-13432",
+        "phone_name": "Redmi A3 Pro",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-a3-pro.jpg",
+        "description": "Xiaomi Redmi A3 Pro Android smartphone. Announced Oct 2024. Features 6.88″  display, Helio G81 Ultra chipset, 5160 mAh battery, 128 GB storage, 4 GB RAM."
+      },
+      {
+        "brand_id": 80,
+        "brand_name": "Xiaomi",
+        "id": "xiaomi_14t_pro-13328",
+        "phone_name": "14T Pro",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-14t-pro.jpg",
+        "description": "Xiaomi 14T Pro Android smartphone. Announced Sep 2024. Features 6.67″  display, Dimensity 9300+ chipset, 5000 mAh battery, 1024 GB storage, 16 GB RAM, Corning Gorilla Glass 5."
+      },
+      {
+        "brand_id": 80,
+        "brand_name": "Xiaomi",
+        "id": "xiaomi_14t-13329",
+        "phone_name": "14T",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-14t.jpg",
+        "description": "Xiaomi 14T Android smartphone. Announced Sep 2024. Features 6.67″  display, Dimensity 8300 Ultra chipset, 5000 mAh battery, 512 GB storage, 16 GB RAM, Corning Gorilla Glass 5."
+      },
+      {
+        "brand_id": 80,
+        "brand_name": "Xiaomi",
+        "id": "xiaomi_redmi_note_14_5g_(china)-13366",
+        "phone_name": "Redmi Note 14 5G (China)",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-14-5g.jpg",
+        "description": "Xiaomi Redmi Note 14 (China) Android smartphone. Announced Sep 2024. Features 6.67″  display, Dimensity 7025 Ultra chipset, 5110 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass 5."
+      }
+    ],
+    "total_pages": 0,
+    "current_page": 0
+  },
+  "Google": {
+    "data": [
+      {
+        "brand_id": 107,
+        "brand_name": "Google",
+        "id": "google_pixel_9a-13478",
+        "phone_name": "Pixel 9a",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-9a.jpg",
+        "description": "Google Pixel 9a Android smartphone. Announced Mar 2025. Features 6.3″  display, Google Tensor G4 chipset, 5100 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 3."
+      },
+      {
+        "brand_id": 107,
+        "brand_name": "Google",
+        "id": "google_pixel_9_pro_xl-13217",
+        "phone_name": "Pixel 9 Pro XL",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-9-pro-xl-.jpg",
+        "description": "Google Pixel 9 Pro XL Android smartphone. Announced Aug 2024. Features 6.8″  display, Google Tensor G4 chipset, 5060 mAh battery, 1024 GB storage, 16 GB RAM, Corning Gorilla Glass Victus 2."
+      },
+      {
+        "brand_id": 107,
+        "brand_name": "Google",
+        "id": "google_pixel_9_pro-13218",
+        "phone_name": "Pixel 9 Pro",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-9-pro-.jpg",
+        "description": "Google Pixel 9 Pro Android smartphone. Announced Aug 2024. Features 6.3″  display, Google Tensor G4 chipset, 4700 mAh battery, 1024 GB storage, 16 GB RAM, Corning Gorilla Glass Victus 2."
+      },
+      {
+        "brand_id": 107,
+        "brand_name": "Google",
+        "id": "google_pixel_9-13219",
+        "phone_name": "Pixel 9",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-9-.jpg",
+        "description": "Google Pixel 9 Android smartphone. Announced Aug 2024. Features 6.3″  display, Google Tensor G4 chipset, 4700 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass Victus 2."
+      },
+      {
+        "brand_id": 107,
+        "brand_name": "Google",
+        "id": "google_pixel_9_pro_fold-13220",
+        "phone_name": "Pixel 9 Pro Fold",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-9-pro-fold-.jpg",
+        "description": "Google Pixel 9 Pro Fold Android smartphone. Announced Aug 2024. Features 8.0″  display, Google Tensor G4 chipset, 4650 mAh battery, 512 GB storage, 16 GB RAM."
+      },
+      {
+        "brand_id": 107,
+        "brand_name": "Google",
+        "id": "google_pixel_watch_3-13253",
+        "phone_name": "Pixel Watch 3",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-watch3-.jpg",
+        "description": "Google Pixel Watch 3 Android watch. Announced Aug 2024. Features 1.4″  display, SW5100 chipset, 420 mAh battery, 32 GB storage, 2 GB RAM, Corning Gorilla Glass 5."
+      },
+      {
+        "brand_id": 107,
+        "brand_name": "Google",
+        "id": "google_pixel_8a-12937",
+        "phone_name": "Pixel 8a",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-8a.jpg",
+        "description": "Google Pixel 8a Android smartphone. Announced May 2024. Features 6.1″  display, Google Tensor G3 chipset, 4492 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 3."
+      },
+      {
+        "brand_id": 107,
+        "brand_name": "Google",
+        "id": "google_pixel_8_pro-12545",
+        "phone_name": "Pixel 8 Pro",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-8-pro.jpg",
+        "description": "Google Pixel 8 Pro Android smartphone. Announced Oct 2023. Features 6.7″  display, Google Tensor G3 chipset, 5050 mAh battery, 1024 GB storage, 12 GB RAM, Corning Gorilla Glass Victus 2."
+      },
+      {
+        "brand_id": 107,
+        "brand_name": "Google",
+        "id": "google_pixel_8-12546",
+        "phone_name": "Pixel 8",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-8.jpg",
+        "description": "Google Pixel 8 Android smartphone. Announced Oct 2023. Features 6.2″  display, Google Tensor G3 chipset, 4575 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass Victus."
+      },
+      {
+        "brand_id": 107,
+        "brand_name": "Google",
+        "id": "google_pixel_watch_2-12547",
+        "phone_name": "Pixel Watch 2",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-watch-2.jpg",
+        "description": "Google Pixel Watch 2 Android watch. Announced Oct 2023. Features 1.2″  display, 5100 chipset, 306 mAh battery, 32 GB storage, 2 GB RAM, Corning Gorilla Glass 5."
+      },
+      {
+        "brand_id": 107,
+        "brand_name": "Google",
+        "id": "google_pixel_fold-12265",
+        "phone_name": "Pixel Fold",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-fold.jpg",
+        "description": "Google Pixel Fold Android smartphone. Announced May 2023. Features 7.6″  display, Google Tensor G2 chipset, 4821 mAh battery, 512 GB storage, 12 GB RAM."
+      },
+      {
+        "brand_id": 107,
+        "brand_name": "Google",
+        "id": "google_pixel_tablet-11905",
+        "phone_name": "Pixel Tablet",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-tablet-1.jpg",
+        "description": "Google Pixel Tablet Android tablet. Announced May 2023. Features 10.95″  display, Google Tensor G2 chipset, 7020 mAh battery, 256 GB storage, 8 GB RAM."
+      },
+      {
+        "brand_id": 107,
+        "brand_name": "Google",
+        "id": "google_pixel_7a-12170",
+        "phone_name": "Pixel 7a",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-7a.jpg",
+        "description": "Google Pixel 7a Android smartphone. Announced May 2023. Features 6.1″  display, Google Tensor G2 chipset, 4385 mAh battery, 128 GB storage, 8 GB RAM, Corning Gorilla Glass 3."
+      },
+      {
+        "brand_id": 107,
+        "brand_name": "Google",
+        "id": "google_pixel_7_pro-11908",
+        "phone_name": "Pixel 7 Pro",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel7-pro-new.jpg",
+        "description": "Google Pixel 7 Pro Android smartphone. Announced Oct 2022. Features 6.7″  display, Google Tensor G2 chipset, 5000 mAh battery, 512 GB storage, 12 GB RAM, Corning Gorilla Glass Victus."
+      },
+      {
+        "brand_id": 107,
+        "brand_name": "Google",
+        "id": "google_pixel_7-11903",
+        "phone_name": "Pixel 7",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel7-new.jpg",
+        "description": "Google Pixel 7 Android smartphone. Announced Oct 2022. Features 6.3″  display, Google Tensor G2 chipset, 4355 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass Victus."
+      },
+      {
+        "brand_id": 107,
+        "brand_name": "Google",
+        "id": "google_pixel_watch-11546",
+        "phone_name": "Pixel Watch",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-watch-.jpg",
+        "description": "Google Pixel Watch Android watch. Announced Oct 2022. Features 1.2″  display, Exynos 9110 chipset, 294 mAh battery, 32 GB storage, 2 GB RAM, Corning Gorilla Glass 5."
+      },
+      {
+        "brand_id": 107,
+        "brand_name": "Google",
+        "id": "google_pixel_6a-11229",
+        "phone_name": "Pixel 6a",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-6a.jpg",
+        "description": "Google Pixel 6a Android smartphone. Announced May 2022. Features 6.1″  display, Google Tensor chipset, 4410 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 3."
+      },
+      {
+        "brand_id": 107,
+        "brand_name": "Google",
+        "id": "google_pixel_6_pro-10918",
+        "phone_name": "Pixel 6 Pro",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-6-pro.jpg",
+        "description": "Google Pixel 6 Pro Android smartphone. Announced Oct 2021. Features 6.7″  display, Google Tensor chipset, 5003 mAh battery, 512 GB storage, 12 GB RAM, Corning Gorilla Glass Victus."
+      },
+      {
+        "brand_id": 107,
+        "brand_name": "Google",
+        "id": "google_pixel_6-11037",
+        "phone_name": "Pixel 6",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-6.jpg",
+        "description": "Google Pixel 6 Android smartphone. Announced Oct 2021. Features 6.4″  display, Google Tensor chipset, 4614 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass Victus."
+      },
+      {
+        "brand_id": 107,
+        "brand_name": "Google",
+        "id": "google_pixel_5a_5g-11059",
+        "phone_name": "Pixel 5a 5G",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-5a-5g.jpg",
+        "description": "Google Pixel 5a 5G Android smartphone. Announced Aug 2021. Features 6.34″  display, Snapdragon 765G 5G chipset, 4680 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 3."
+      },
+      {
+        "brand_id": 107,
+        "brand_name": "Google",
+        "id": "google_pixel_5-10386",
+        "phone_name": "Pixel 5",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-5-5g.jpg",
+        "description": "Google Pixel 5 Android smartphone. Announced Sep 2020. Features 6.0″  display, Snapdragon 765G 5G chipset, 4080 mAh battery, 128 GB storage, 8 GB RAM, Corning Gorilla Glass 6."
+      },
+      {
+        "brand_id": 107,
+        "brand_name": "Google",
+        "id": "google_pixel_4a_5g-10385",
+        "phone_name": "Pixel 4a 5G",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-4a-5g.jpg",
+        "description": "Google Pixel 4a 5G Android smartphone. Announced Sep 2020. Features 6.2″  display, Snapdragon 765G 5G chipset, 3885 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 3."
+      },
+      {
+        "brand_id": 107,
+        "brand_name": "Google",
+        "id": "google_pixel_4a-10123",
+        "phone_name": "Pixel 4a",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-4a.jpg",
+        "description": "Google Pixel 4a Android smartphone. Announced Aug 2020. Features 5.81″  display, Snapdragon 730G chipset, 3140 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 3."
+      },
+      {
+        "brand_id": 107,
+        "brand_name": "Google",
+        "id": "google_pixel_4_xl-9895",
+        "phone_name": "Pixel 4 XL",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-4-r1.jpg",
+        "description": "Google Pixel 4 XL Android smartphone. Announced Oct 2019. Features 6.3″  display, Snapdragon 855 chipset, 3700 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 5."
+      },
+      {
+        "brand_id": 107,
+        "brand_name": "Google",
+        "id": "google_pixel_4-9896",
+        "phone_name": "Pixel 4",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-4-r1.jpg",
+        "description": "Google Pixel 4 Android smartphone. Announced Oct 2019. Features 5.7″  display, Snapdragon 855 chipset, 2800 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 5."
+      },
+      {
+        "brand_id": 107,
+        "brand_name": "Google",
+        "id": "google_pixel_3a_xl-9690",
+        "phone_name": "Pixel 3a XL",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-3a-xl-.jpg",
+        "description": "Google Pixel 3a XL Android smartphone. Announced May 2019. Features 6.0″  display, Snapdragon 670 chipset, 3700 mAh battery, 64 GB storage, 4 GB RAM, Asahi Dragontrail Glass."
+      },
+      {
+        "brand_id": 107,
+        "brand_name": "Google",
+        "id": "google_pixel_3a-9408",
+        "phone_name": "Pixel 3a",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-3a.jpg",
+        "description": "Google Pixel 3a Android smartphone. Announced May 2019. Features 5.6″  display, Snapdragon 670 chipset, 3000 mAh battery, 64 GB storage, 4 GB RAM, Asahi Dragontrail Glass."
+      },
+      {
+        "brand_id": 107,
+        "brand_name": "Google",
+        "id": "google_pixel_3_xl-9257",
+        "phone_name": "Pixel 3 XL",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-3xl-.jpg",
+        "description": "Google Pixel 3 XL Android smartphone. Announced Oct 2018. Features 6.3″  display, Snapdragon 845 chipset, 3430 mAh battery, 128 GB storage, 4 GB RAM, Corning Gorilla Glass 5."
+      },
+      {
+        "brand_id": 107,
+        "brand_name": "Google",
+        "id": "google_pixel_3-9256",
+        "phone_name": "Pixel 3",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-3-.jpg",
+        "description": "Google Pixel 3 Android smartphone. Announced Oct 2018. Features 5.5″  display, Snapdragon 845 chipset, 2915 mAh battery, 128 GB storage, 4 GB RAM, Corning Gorilla Glass 5."
+      },
+      {
+        "brand_id": 107,
+        "brand_name": "Google",
+        "id": "google_pixel_2-8733",
+        "phone_name": "Pixel 2",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-2.jpg",
+        "description": "Google Pixel 2 Android smartphone. Announced Oct 2017. Features 5.0″  display, Snapdragon 835 chipset, 12.2 MP primary camera, 8 MP front camera, 2700 mAh battery, 128 GB storage, 4 GB RAM, Corning Gorilla Glass 5."
+      },
+      {
+        "brand_id": 107,
+        "brand_name": "Google",
+        "id": "google_pixel_2_xl-8720",
+        "phone_name": "Pixel 2 XL",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-xl2-.jpg",
+        "description": "Google Pixel 2 XL Android smartphone. Announced Oct 2017. Features 6.0″  display, Snapdragon 835 chipset, 12.2 MP primary camera, 8 MP front camera, 3520 mAh battery, 128 GB storage, 4 GB RAM, Corning Gorilla Glass 5."
+      },
+      {
+        "brand_id": 107,
+        "brand_name": "Google",
+        "id": "google_pixel_xl-8345",
+        "phone_name": "Pixel XL",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-xl.jpg",
+        "description": "Google Pixel XL Android smartphone. Announced Oct 2016. Features 5.5″  display, Snapdragon 821 chipset, 12.3 MP primary camera, 8 MP front camera, 3450 mAh battery, 128 GB storage, 4 GB RAM, Corning Gorilla Glass 4."
+      },
+      {
+        "brand_id": 107,
+        "brand_name": "Google",
+        "id": "google_pixel-8346",
+        "phone_name": "Pixel",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel.jpg",
+        "description": "Google Pixel Android smartphone. Announced Oct 2016. Features 5.0″  display, Snapdragon 821 chipset, 12.3 MP primary camera, 8 MP front camera, 2770 mAh battery, 128 GB storage, 4 GB RAM, Corning Gorilla Glass 4."
+      },
+      {
+        "brand_id": 107,
+        "brand_name": "Google",
+        "id": "google_pixel_c-7826",
+        "phone_name": "Pixel C",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-c--.jpg",
+        "description": "Google Pixel C Android tablet. Announced Sep 2015. Features 10.2″  display, Nvidia Tegra X1 chipset, 8 MP primary camera, 2 MP front camera, 9240 mAh battery, 64 GB storage, 3 GB RAM."
+      }
+    ],
+    "total_pages": 1,
+    "current_page": 0
+  },
+  "Apple": {
+    "data": [
+      {
+        "brand_id": 48,
+        "brand_name": "Apple",
+        "id": "apple_ipad_air_13_(2025)-13704",
+        "phone_name": "iPad Air 13 (2025)",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/apple-ipad-air-13-2025.jpg",
+        "description": "Apple iPad Air 13 (2025) tablet. Announced Mar 2025. Features 13.0″  display, Apple M3 chipset, 9705 mAh battery, 1024 GB storage, 8 GB RAM, Scratch-resistant glass."
+      },
+      {
+        "brand_id": 48,
+        "brand_name": "Apple",
+        "id": "apple_ipad_air_11_(2025)-13703",
+        "phone_name": "iPad Air 11 (2025)",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/apple-ipad-air-11-2025.jpg",
+        "description": "Apple iPad Air 11 (2025) tablet. Announced Mar 2025. Features 11.0″  display, Apple M3 chipset, 7606 mAh battery, 1024 GB storage, 8 GB RAM, Scratch-resistant glass."
+      },
+      {
+        "brand_id": 48,
+        "brand_name": "Apple",
+        "id": "apple_ipad_(2025)-13702",
+        "phone_name": "iPad (2025)",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/apple-ipad-11-inch-2025.jpg",
+        "description": "Apple iPad (2025) tablet. Announced Mar 2025. Features 11.0″  display, Apple A16 Bionic chipset, 512 GB storage, 6 GB RAM, Scratch-resistant glass."
+      },
+      {
+        "brand_id": 48,
+        "brand_name": "Apple",
+        "id": "apple_iphone_16e-13395",
+        "phone_name": "iPhone 16e",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-16e.jpg",
+        "description": "Apple iPhone 16e smartphone. Announced Feb 2025. Features 6.1″  display, Apple A18 chipset, 4005 mAh battery, 512 GB storage, 8 GB RAM, Ceramic Shield glass."
+      },
+      {
+        "brand_id": 48,
+        "brand_name": "Apple",
+        "id": "apple_ipad_mini_(2024)-13437",
+        "phone_name": "iPad mini (2024)",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/apple-ipad-mini-2024.jpg",
+        "description": "Apple iPad mini (2024) tablet. Announced Oct 2024. Features 8.3″  display, Apple A17 Pro chipset, 5078 mAh battery, 512 GB storage, 8 GB RAM, Scratch-resistant glass."
+      },
+      {
+        "brand_id": 48,
+        "brand_name": "Apple",
+        "id": "apple_iphone_16_pro_max-13123",
+        "phone_name": "iPhone 16 Pro Max",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-16-pro-max.jpg",
+        "description": "Apple iPhone 16 Pro Max smartphone. Announced Sep 2024. Features 6.9″  display, Apple A18 Pro chipset, 4685 mAh battery, 1024 GB storage, 8 GB RAM, Ceramic Shield glass (2024 gen)."
+      },
+      {
+        "brand_id": 48,
+        "brand_name": "Apple",
+        "id": "apple_iphone_16_pro-13315",
+        "phone_name": "iPhone 16 Pro",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-16-pro.jpg",
+        "description": "Apple iPhone 16 Pro smartphone. Announced Sep 2024. Features 6.3″  display, Apple A18 Pro chipset, 3582 mAh battery, 1024 GB storage, 8 GB RAM, Ceramic Shield glass (2024 gen)."
+      },
+      {
+        "brand_id": 48,
+        "brand_name": "Apple",
+        "id": "apple_iphone_16_plus-13316",
+        "phone_name": "iPhone 16 Plus",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-16-plus.jpg",
+        "description": "Apple iPhone 16 Plus smartphone. Announced Sep 2024. Features 6.7″  display, Apple A18 chipset, 4674 mAh battery, 512 GB storage, 8 GB RAM, Ceramic Shield glass (2024 gen)."
+      },
+      {
+        "brand_id": 48,
+        "brand_name": "Apple",
+        "id": "apple_iphone_16-13317",
+        "phone_name": "iPhone 16",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-16.jpg",
+        "description": "Apple iPhone 16 smartphone. Announced Sep 2024. Features 6.1″  display, Apple A18 chipset, 3561 mAh battery, 512 GB storage, 8 GB RAM, Ceramic Shield glass (2024 gen)."
+      },
+      {
+        "brand_id": 48,
+        "brand_name": "Apple",
+        "id": "apple_watch_series_10-13318",
+        "phone_name": "Watch Series 10",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/apple-watch-series10.jpg",
+        "description": "Apple Watch Series 10 watch. Announced Sep 2024. Features 1.96″  display, Apple S10 chipset, 327 mAh battery, 64 GB storage, IP6X certified, Sapphire crystal glass."
+      },
+      {
+        "brand_id": 48,
+        "brand_name": "Apple",
+        "id": "apple_watch_series_10_aluminum-13319",
+        "phone_name": "Watch Series 10 Aluminum",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/apple-watch-series10-alumin.jpg",
+        "description": "Apple Watch Series 10 Aluminum watch. Announced Sep 2024. Features 1.96″  display, Apple S10 chipset, 327 mAh battery, 64 GB storage, IP6X certified, Ion-X strengthened glass."
+      },
+      {
+        "brand_id": 48,
+        "brand_name": "Apple",
+        "id": "apple_ipad_pro_13_(2024)-12987",
+        "phone_name": "iPad Pro 13 (2024)",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/apple-ipad-pro-13-2024.jpg",
+        "description": "Apple iPad Pro 13 (2024) tablet. Announced May 2024. Features 13.0″  display, Apple M4 chipset, 10290 mAh battery, 2048 GB storage, 16 GB RAM, Scratch-resistant glass."
+      },
+      {
+        "brand_id": 48,
+        "brand_name": "Apple",
+        "id": "apple_ipad_pro_11_(2024)-12986",
+        "phone_name": "iPad Pro 11 (2024)",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/apple-ipad-pro-11-2024.jpg",
+        "description": "Apple iPad Pro 11 (2024) tablet. Announced May 2024. Features 11.0″  display, Apple M4 chipset, 8160 mAh battery, 2048 GB storage, 16 GB RAM, Scratch-resistant glass."
+      },
+      {
+        "brand_id": 48,
+        "brand_name": "Apple",
+        "id": "apple_ipad_air_13_(2024)-12985",
+        "phone_name": "iPad Air 13 (2024)",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/apple-ipad-air-13-2024.jpg",
+        "description": "Apple iPad Air 13 (2024) tablet. Announced May 2024. Features 13.0″  display, Apple M2 chipset, 9705 mAh battery, 1024 GB storage, 8 GB RAM, Scratch-resistant glass."
+      },
+      {
+        "brand_id": 48,
+        "brand_name": "Apple",
+        "id": "apple_ipad_air_11_(2024)-12984",
+        "phone_name": "iPad Air 11 (2024)",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/apple-ipad-air-11-2024.jpg",
+        "description": "Apple iPad Air 11 (2024) tablet. Announced May 2024. Features 11.0″  display, Apple M2 chipset, 7606 mAh battery, 1024 GB storage, 8 GB RAM, Scratch-resistant glass."
+      },
+      {
+        "brand_id": 48,
+        "brand_name": "Apple",
+        "id": "apple_iphone_15_pro_max-12548",
+        "phone_name": "iPhone 15 Pro Max",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-15-pro-max.jpg",
+        "description": "Apple iPhone 15 Pro Max smartphone. Announced Sep 2023. Features 6.7″  display, Apple A17 Pro chipset, 4441 mAh battery, 1024 GB storage, 8 GB RAM, Ceramic Shield glass."
+      },
+      {
+        "brand_id": 48,
+        "brand_name": "Apple",
+        "id": "apple_iphone_15_pro-12557",
+        "phone_name": "iPhone 15 Pro",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-15-pro.jpg",
+        "description": "Apple iPhone 15 Pro smartphone. Announced Sep 2023. Features 6.1″  display, Apple A17 Pro chipset, 3274 mAh battery, 1024 GB storage, 8 GB RAM, Ceramic Shield glass."
+      },
+      {
+        "brand_id": 48,
+        "brand_name": "Apple",
+        "id": "apple_iphone_15_plus-12558",
+        "phone_name": "iPhone 15 Plus",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-15-plus-.jpg",
+        "description": "Apple iPhone 15 Plus smartphone. Announced Sep 2023. Features 6.7″  display, Apple A16 Bionic chipset, 4383 mAh battery, 512 GB storage, 6 GB RAM, Ceramic Shield glass."
+      },
+      {
+        "brand_id": 48,
+        "brand_name": "Apple",
+        "id": "apple_iphone_15-12559",
+        "phone_name": "iPhone 15",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-15.jpg",
+        "description": "Apple iPhone 15 smartphone. Announced Sep 2023. Features 6.1″  display, Apple A16 Bionic chipset, 3349 mAh battery, 512 GB storage, 6 GB RAM, Ceramic Shield glass."
+      },
+      {
+        "brand_id": 48,
+        "brand_name": "Apple",
+        "id": "apple_watch_ultra_2-12560",
+        "phone_name": "Watch Ultra 2",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/apple-watch-ultra2-black.jpg",
+        "description": "Apple Watch Ultra 2 watch. Announced Sep 2023. Features 1.92″  display, Apple S9 chipset, 564 mAh battery, 64 GB storage, MIL-STD-810 compliant, Sapphire crystal glass."
+      },
+      {
+        "brand_id": 48,
+        "brand_name": "Apple",
+        "id": "apple_watch_series_9-12561",
+        "phone_name": "Watch Series 9",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/apple-watch-series9.jpg",
+        "description": "Apple Watch Series 9 watch. Announced Sep 2023. Features 1.9″  display, Apple S9 chipset, 308 mAh battery, 64 GB storage, IP6X certified, Sapphire crystal glass."
+      },
+      {
+        "brand_id": 48,
+        "brand_name": "Apple",
+        "id": "apple_watch_series_9_aluminum-12562",
+        "phone_name": "Watch Series 9 Aluminum",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/apple-watch-series9-aluminum.jpg",
+        "description": "Apple Watch Series 9 Aluminum watch. Announced Sep 2023. Features 1.9″  display, Apple S9 chipset, 308 mAh battery, 64 GB storage, IP6X certified, Ion-X strengthened glass."
+      },
+      {
+        "brand_id": 48,
+        "brand_name": "Apple",
+        "id": "apple_ipad_pro_12.9_(2022)-11939",
+        "phone_name": "iPad Pro 12.9 (2022)",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/apple-ipad-pro-129-2022.jpg",
+        "description": "Apple iPad Pro 12.9 (2022) tablet. Announced Oct 2022. Features 12.9″  display, Apple M2 chipset, 10758 mAh battery, 2048 GB storage, 16 GB RAM, Scratch-resistant glass."
+      },
+      {
+        "brand_id": 48,
+        "brand_name": "Apple",
+        "id": "apple_ipad_pro_11_(2022)-11940",
+        "phone_name": "iPad Pro 11 (2022)",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/apple-ipad-pro-11-2022.jpg",
+        "description": "Apple iPad Pro 11 (2022) tablet. Announced Oct 2022. Features 11.0″  display, Apple M2 chipset, 7538 mAh battery, 2048 GB storage, 16 GB RAM, Scratch-resistant glass."
+      },
+      {
+        "brand_id": 48,
+        "brand_name": "Apple",
+        "id": "apple_ipad_(2022)-11941",
+        "phone_name": "iPad (2022)",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/apple-ipad-10-2022.jpg",
+        "description": "Apple iPad (2022) tablet. Announced Oct 2022. Features 10.9″  display, Apple A14 Bionic chipset, 7606 mAh battery, 256 GB storage, 4 GB RAM, Scratch-resistant glass."
+      },
+      {
+        "brand_id": 48,
+        "brand_name": "Apple",
+        "id": "apple_iphone_14_pro_max-11773",
+        "phone_name": "iPhone 14 Pro Max",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-14-pro-max-.jpg",
+        "description": "Apple iPhone 14 Pro Max smartphone. Announced Sep 2022. Features 6.7″  display, Apple A16 Bionic chipset, 4323 mAh battery, 1024 GB storage, 6 GB RAM, Ceramic Shield glass."
+      },
+      {
+        "brand_id": 48,
+        "brand_name": "Apple",
+        "id": "apple_iphone_14_pro-11860",
+        "phone_name": "iPhone 14 Pro",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-14-pro.jpg",
+        "description": "Apple iPhone 14 Pro smartphone. Announced Sep 2022. Features 6.1″  display, Apple A16 Bionic chipset, 3200 mAh battery, 1024 GB storage, 6 GB RAM, Ceramic Shield glass."
+      },
+      {
+        "brand_id": 48,
+        "brand_name": "Apple",
+        "id": "apple_iphone_14_plus-11862",
+        "phone_name": "iPhone 14 Plus",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-14-plus.jpg",
+        "description": "Apple iPhone 14 Plus smartphone. Announced Sep 2022. Features 6.7″  display, Apple A15 Bionic chipset, 4323 mAh battery, 512 GB storage, 6 GB RAM, Ceramic Shield glass."
+      },
+      {
+        "brand_id": 48,
+        "brand_name": "Apple",
+        "id": "apple_iphone_14-11861",
+        "phone_name": "iPhone 14",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-14.jpg",
+        "description": "Apple iPhone 14 smartphone. Announced Sep 2022. Features 6.1″  display, Apple A15 Bionic chipset, 3279 mAh battery, 512 GB storage, 6 GB RAM, Ceramic Shield glass."
+      },
+      {
+        "brand_id": 48,
+        "brand_name": "Apple",
+        "id": "apple_watch_ultra-11827",
+        "phone_name": "Watch Ultra",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/apple-watch-ultra.jpg",
+        "description": "Apple Watch Ultra watch. Announced Sep 2022. Features 1.92″  display, Apple S8 chipset, 542 mAh battery, 32 GB storage, MIL-STD-810H compliant, Sapphire crystal glass."
+      },
+      {
+        "brand_id": 48,
+        "brand_name": "Apple",
+        "id": "apple_watch_series_8-11866",
+        "phone_name": "Watch Series 8",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/apple-watch-8.jpg",
+        "description": "Apple Watch Series 8 watch. Announced Sep 2022. Features 1.9″  display, Apple S8 chipset, 308 mAh battery, 32 GB storage, 1000 MB RAM, IP6X certified, Sapphire crystal glass."
+      },
+      {
+        "brand_id": 48,
+        "brand_name": "Apple",
+        "id": "apple_watch_series_8_aluminum-11864",
+        "phone_name": "Watch Series 8 Aluminum",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/apple-watch-8-aluminum.jpg",
+        "description": "Apple Watch Series 8 Aluminum watch. Announced Sep 2022. Features 1.9″  display, Apple S8 chipset, 308 mAh battery, 32 GB storage, 1000 MB RAM, IP6X certified, Ion-X strengthened glass."
+      },
+      {
+        "brand_id": 48,
+        "brand_name": "Apple",
+        "id": "apple_watch_se_(2022)-11865",
+        "phone_name": "Watch SE (2022)",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/apple-watch-8se-2022.jpg",
+        "description": "Apple Watch SE (2022) watch. Announced Sep 2022. Features 1.78″  display, Apple S8 chipset, 296 mAh battery, 32 GB storage, 1000 MB RAM, Ion-X strengthened glass."
+      },
+      {
+        "brand_id": 48,
+        "brand_name": "Apple",
+        "id": "apple_iphone_se_(2022)-11410",
+        "phone_name": "iPhone SE (2022)",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-se-2022.jpg",
+        "description": "Apple iPhone SE (2022) smartphone. Announced Mar 2022. Features 4.7″  display, Apple A15 Bionic chipset, 2018 mAh battery, 256 GB storage, 4 GB RAM, Ion-strengthened glass."
+      },
+      {
+        "brand_id": 48,
+        "brand_name": "Apple",
+        "id": "apple_ipad_air_(2022)-11411",
+        "phone_name": "iPad Air (2022)",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/apple-ipad-air-2022-new.jpg",
+        "description": "Apple iPad Air (2022) tablet. Announced Mar 2022. Features 10.9″  display, Apple M1 chipset, 7600 mAh battery, 256 GB storage, 8 GB RAM, Scratch-resistant glass."
+      },
+      {
+        "brand_id": 48,
+        "brand_name": "Apple",
+        "id": "apple_iphone_13_pro_max-11089",
+        "phone_name": "iPhone 13 Pro Max",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13-pro-max.jpg",
+        "description": "Apple iPhone 13 Pro Max smartphone. Announced Sep 2021. Features 6.7″  display, Apple A15 Bionic chipset, 4352 mAh battery, 1024 GB storage, 6 GB RAM, Ceramic Shield glass."
+      },
+      {
+        "brand_id": 48,
+        "brand_name": "Apple",
+        "id": "apple_iphone_13_pro-11102",
+        "phone_name": "iPhone 13 Pro",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13-pro.jpg",
+        "description": "Apple iPhone 13 Pro smartphone. Announced Sep 2021. Features 6.1″  display, Apple A15 Bionic chipset, 3095 mAh battery, 1024 GB storage, 6 GB RAM, Ceramic Shield glass."
+      },
+      {
+        "brand_id": 48,
+        "brand_name": "Apple",
+        "id": "apple_iphone_13-11103",
+        "phone_name": "iPhone 13",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13.jpg",
+        "description": "Apple iPhone 13 smartphone. Announced Sep 2021. Features 6.1″  display, Apple A15 Bionic chipset, 3240 mAh battery, 512 GB storage, 4 GB RAM, Ceramic Shield glass."
+      },
+      {
+        "brand_id": 48,
+        "brand_name": "Apple",
+        "id": "apple_iphone_13_mini-11104",
+        "phone_name": "iPhone 13 mini",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13-mini.jpg",
+        "description": "Apple iPhone 13 mini smartphone. Announced Sep 2021. Features 5.4″  display, Apple A15 Bionic chipset, 2438 mAh battery, 512 GB storage, 4 GB RAM, Ceramic Shield glass."
+      },
+      {
+        "brand_id": 48,
+        "brand_name": "Apple",
+        "id": "apple_ipad_mini_(2021)-11105",
+        "phone_name": "iPad mini (2021)",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/apple-ipad-mini-2021.jpg",
+        "description": "Apple iPad mini (2021) tablet. Announced Sep 2021. Features 8.3″  display, Apple A15 Bionic chipset, 5078 mAh battery, 256 GB storage, 4 GB RAM, Scratch-resistant glass."
+      },
+      {
+        "brand_id": 48,
+        "brand_name": "Apple",
+        "id": "apple_ipad_10.2_(2021)-11106",
+        "phone_name": "iPad 10.2 (2021)",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/apple-ipad-102-2021-.jpg",
+        "description": "Apple iPad 10.2 (2021) tablet. Announced Sep 2021. Features 10.2″  display, Apple A13 Bionic chipset, 8557 mAh battery, 256 GB storage, 3 GB RAM, Scratch-resistant glass."
+      },
+      {
+        "brand_id": 48,
+        "brand_name": "Apple",
+        "id": "apple_watch_edition_series_7-11147",
+        "phone_name": "Watch Edition Series 7",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/apple-watch-series-7-titanium.jpg",
+        "description": "Apple Watch Edition Series 7 watch. Announced Sep 2021. Features 1.9″  display, Apple S7 chipset, 309 mAh battery, 32 GB storage, 1000 MB RAM, IP6X certified, Sapphire crystal glass."
+      },
+      {
+        "brand_id": 48,
+        "brand_name": "Apple",
+        "id": "apple_watch_series_7-11146",
+        "phone_name": "Watch Series 7",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/apple-watch-series-7-stainless-steel.jpg",
+        "description": "Apple Watch Series 7 watch. Announced Sep 2021. Features 1.9″  display, Apple S7 chipset, 309 mAh battery, 32 GB storage, 1000 MB RAM, IP6X certified, Sapphire crystal glass."
+      },
+      {
+        "brand_id": 48,
+        "brand_name": "Apple",
+        "id": "apple_watch_series_7_aluminum-11107",
+        "phone_name": "Watch Series 7 Aluminum",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/apple-watch-series-7-aluminum.jpg",
+        "description": "Apple Watch Series 7 Aluminum watch. Announced Sep 2021. Features 1.9″  display, Apple S7 chipset, 309 mAh battery, 32 GB storage, 1000 MB RAM, IP6X certified, Ion-X strengthened glass."
+      },
+      {
+        "brand_id": 48,
+        "brand_name": "Apple",
+        "id": "apple_ipad_pro_12.9_(2021)-10864",
+        "phone_name": "iPad Pro 12.9 (2021)",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/apple-ipad-pro-129-2021.jpg",
+        "description": "Apple iPad Pro 12.9 (2021) tablet. Announced Apr 2021. Features 12.9″  display, Apple M1 chipset, 10758 mAh battery, 2048 GB storage, 16 GB RAM, Scratch-resistant glass."
+      },
+      {
+        "brand_id": 48,
+        "brand_name": "Apple",
+        "id": "apple_ipad_pro_11_(2021)-10865",
+        "phone_name": "iPad Pro 11 (2021)",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/apple-ipad-pro-11-2021.jpg",
+        "description": "Apple iPad Pro 11 (2021) tablet. Announced Apr 2021. Features 11.0″  display, Apple M1 chipset, 7538 mAh battery, 2048 GB storage, 16 GB RAM, Scratch-resistant glass."
+      },
+      {
+        "brand_id": 48,
+        "brand_name": "Apple",
+        "id": "apple_iphone_12_pro_max-10237",
+        "phone_name": "iPhone 12 Pro Max",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-12-pro-max-.jpg",
+        "description": "Apple iPhone 12 Pro Max smartphone. Announced Oct 2020. Features 6.7″  display, Apple A14 Bionic chipset, 3687 mAh battery, 512 GB storage, 6 GB RAM, Ceramic Shield glass."
+      },
+      {
+        "brand_id": 48,
+        "brand_name": "Apple",
+        "id": "apple_iphone_12_pro-10508",
+        "phone_name": "iPhone 12 Pro",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-12-pro--.jpg",
+        "description": "Apple iPhone 12 Pro smartphone. Announced Oct 2020. Features 6.1″  display, Apple A14 Bionic chipset, 2815 mAh battery, 512 GB storage, 6 GB RAM, Ceramic Shield glass."
+      },
+      {
+        "brand_id": 48,
+        "brand_name": "Apple",
+        "id": "apple_iphone_12-10509",
+        "phone_name": "iPhone 12",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-12.jpg",
+        "description": "Apple iPhone 12 smartphone. Announced Oct 2020. Features 6.1″  display, Apple A14 Bionic chipset, 2815 mAh battery, 256 GB storage, 4 GB RAM, Ceramic Shield glass."
+      },
+      {
+        "brand_id": 48,
+        "brand_name": "Apple",
+        "id": "apple_iphone_12_mini-10510",
+        "phone_name": "iPhone 12 mini",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-12-mini.jpg",
+        "description": "Apple iPhone 12 mini smartphone. Announced Oct 2020. Features 5.4″  display, Apple A14 Bionic chipset, 2227 mAh battery, 256 GB storage, 4 GB RAM, Ceramic Shield glass."
+      }
+    ],
+    "total_pages": 0,
+    "current_page": 0
+  }
+}
