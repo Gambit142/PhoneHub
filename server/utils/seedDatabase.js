@@ -61,7 +61,7 @@ const destroyData = async () => {
   }
 };
 
-// Run with "node seed.js" or "node seed.js -d"
+// Determine action based on command line argument
 if (process.argv[2] === '-d') {
   destroyData();
 } else {
