@@ -226,6 +226,6 @@ Special thanks to:
 - The open-source community for the tools and frameworks used  
 - Cloudinary and Stripe for providing free-tier APIs  
 - Pexels for sample phone product images  
-- Tailwind CSS team for an excellent styling framework  
-
+- Tailwind CSS team for an excellent styling framework 
+- Mobile Phone Rapid API for data used
 ---
